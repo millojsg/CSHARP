@@ -1,0 +1,7 @@
+C:\Users\Desarrollo\source\repos\ConsolaCs\EjemplosPOO\obj\Debug\EjemplosPOO.csprojAssemblyReference.cache
+C:\Users\Desarrollo\source\repos\ConsolaCs\EjemplosPOO\obj\Debug\EjemplosPOO.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\source\repos\ConsolaCs\EjemplosPOO\bin\Debug\EjemplosPOO.exe.config
+C:\Users\Desarrollo\source\repos\ConsolaCs\EjemplosPOO\bin\Debug\EjemplosPOO.exe
+C:\Users\Desarrollo\source\repos\ConsolaCs\EjemplosPOO\bin\Debug\EjemplosPOO.pdb
+C:\Users\Desarrollo\source\repos\ConsolaCs\EjemplosPOO\obj\Debug\EjemplosPOO.exe
+C:\Users\Desarrollo\source\repos\ConsolaCs\EjemplosPOO\obj\Debug\EjemplosPOO.pdb

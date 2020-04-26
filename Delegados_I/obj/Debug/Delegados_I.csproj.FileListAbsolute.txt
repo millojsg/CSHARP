@@ -1,0 +1,12 @@
+C:\Users\Desarrollo\source\repos\ConsolaCs\Delegados_I\bin\Debug\Delegados_I.exe
+C:\Users\Desarrollo\source\repos\ConsolaCs\Delegados_I\bin\Debug\Delegados_I.pdb
+C:\Users\Desarrollo\source\repos\ConsolaCs\Delegados_I\obj\Debug\Delegados_I.csprojAssemblyReference.cache
+C:\Users\Desarrollo\source\repos\ConsolaCs\Delegados_I\obj\Debug\Delegados_I.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\source\repos\ConsolaCs\Delegados_I\obj\Debug\Delegados_I.exe
+C:\Users\Desarrollo\source\repos\ConsolaCs\Delegados_I\obj\Debug\Delegados_I.pdb
+C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\Delegados_I\bin\Debug\Delegados_I.exe
+C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\Delegados_I\bin\Debug\Delegados_I.pdb
+C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\Delegados_I\obj\Debug\Delegados_I.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\Delegados_I\obj\Debug\Delegados_I.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\Delegados_I\obj\Debug\Delegados_I.exe
+C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\Delegados_I\obj\Debug\Delegados_I.pdb

@@ -1,0 +1,7 @@
+C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.exe.config
+C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.exe
+C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\ExpresionesRegulares\bin\Debug\ExpresionesRegulares.pdb
+C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.exe
+C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\ExpresionesRegulares\obj\Debug\ExpresionesRegulares.pdb

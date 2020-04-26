@@ -1,0 +1,7 @@
+C:\Users\Desarrollo\source\repos\ConsolaCs\Genericos\bin\Debug\Genericos.exe.config
+C:\Users\Desarrollo\source\repos\ConsolaCs\Genericos\bin\Debug\Genericos.exe
+C:\Users\Desarrollo\source\repos\ConsolaCs\Genericos\bin\Debug\Genericos.pdb
+C:\Users\Desarrollo\source\repos\ConsolaCs\Genericos\obj\Debug\Genericos.csprojAssemblyReference.cache
+C:\Users\Desarrollo\source\repos\ConsolaCs\Genericos\obj\Debug\Genericos.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\source\repos\ConsolaCs\Genericos\obj\Debug\Genericos.exe
+C:\Users\Desarrollo\source\repos\ConsolaCs\Genericos\obj\Debug\Genericos.pdb

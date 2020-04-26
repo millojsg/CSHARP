@@ -1,0 +1,6 @@
+C:\Users\Desarrollo\source\repos\ConsolaCs\Delegados\obj\Debug\Delegados.csprojAssemblyReference.cache
+C:\Users\Desarrollo\source\repos\ConsolaCs\Delegados\obj\Debug\Delegados.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\source\repos\ConsolaCs\Delegados\bin\Debug\Delegados.exe
+C:\Users\Desarrollo\source\repos\ConsolaCs\Delegados\bin\Debug\Delegados.pdb
+C:\Users\Desarrollo\source\repos\ConsolaCs\Delegados\obj\Debug\Delegados.exe
+C:\Users\Desarrollo\source\repos\ConsolaCs\Delegados\obj\Debug\Delegados.pdb

@@ -1,0 +1,7 @@
+C:\Users\Desarrollo\source\repos\ConsolaCs\Enum_Struct\bin\Debug\Enum_Struct.exe.config
+C:\Users\Desarrollo\source\repos\ConsolaCs\Enum_Struct\bin\Debug\Enum_Struct.exe
+C:\Users\Desarrollo\source\repos\ConsolaCs\Enum_Struct\bin\Debug\Enum_Struct.pdb
+C:\Users\Desarrollo\source\repos\ConsolaCs\Enum_Struct\obj\Debug\Enum_Struct.csprojAssemblyReference.cache
+C:\Users\Desarrollo\source\repos\ConsolaCs\Enum_Struct\obj\Debug\Enum_Struct.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\source\repos\ConsolaCs\Enum_Struct\obj\Debug\Enum_Struct.exe
+C:\Users\Desarrollo\source\repos\ConsolaCs\Enum_Struct\obj\Debug\Enum_Struct.pdb

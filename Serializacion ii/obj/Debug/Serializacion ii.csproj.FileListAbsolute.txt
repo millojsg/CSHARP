@@ -1,0 +1,7 @@
+C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\Serializacion ii\bin\Debug\Serializacion ii.exe.config
+C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\Serializacion ii\bin\Debug\Serializacion ii.exe
+C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\Serializacion ii\bin\Debug\Serializacion ii.pdb
+C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\Serializacion ii\obj\Debug\Serializacion ii.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\Serializacion ii\obj\Debug\Serializacion ii.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\Serializacion ii\obj\Debug\Serializacion ii.exe
+C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\Serializacion ii\obj\Debug\Serializacion ii.pdb
