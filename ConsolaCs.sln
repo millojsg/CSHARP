@@ -17,15 +17,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum_Struct", "Enum_Struct\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Genericos", "Genericos\Genericos.csproj", "{6A3F7853-232F-4640-A8B1-1622D6D0A106}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{8383F8A7-D479-4D5C-B584-6D77E9F9F231}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ I", "LINQ\LINQ I.csproj", "{8383F8A7-D479-4D5C-B584-6D77E9F9F231}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ-I", "LINQ-I\LINQ-I.csproj", "{AC504C4D-FB8B-40E0-89CA-05D716300304}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ II", "LINQ-I\LINQ II.csproj", "{AC504C4D-FB8B-40E0-89CA-05D716300304}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reflexion", "refelxion\reflexion.csproj", "{A30052C5-28C6-48DE-B87F-18956B95651E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegados", "Delegados\Delegados.csproj", "{7DC8689D-1AD1-46E2-9078-7D7E3EFB16F8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegados I", "Delegados\Delegados I.csproj", "{7DC8689D-1AD1-46E2-9078-7D7E3EFB16F8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegados_I", "Delegados_I\Delegados_I.csproj", "{23E8F5AC-78DA-4042-A8DA-E4C45D29CD7C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegados II", "Delegados_I\Delegados II.csproj", "{23E8F5AC-78DA-4042-A8DA-E4C45D29CD7C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
