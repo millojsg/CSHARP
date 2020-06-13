@@ -9,6 +9,7 @@ namespace Predicados
     class Program
     {
         //Los predicados siempre deben devolver un valor bool
+        //esto debido a que es un delegado presestablecido por c#.
 
         static void Main(string[] args)
         {

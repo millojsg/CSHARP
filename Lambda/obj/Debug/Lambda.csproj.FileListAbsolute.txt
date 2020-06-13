@@ -5,3 +5,9 @@ C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\Lambd
 C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\Lambda\obj\Debug\Lambda.exe
 C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\Lambda\obj\Debug\Lambda.pdb
 C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\Lambda\obj\Debug\Lambda.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Lambda\bin\Debug\Lambda.exe.config
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Lambda\bin\Debug\Lambda.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Lambda\bin\Debug\Lambda.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Lambda\obj\Debug\Lambda.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Lambda\obj\Debug\Lambda.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Lambda\obj\Debug\Lambda.pdb

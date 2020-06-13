@@ -5,3 +5,10 @@ C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\pREDI
 C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\pREDICADOS\obj\Debug\pREDICADOS.csproj.CoreCompileInputs.cache
 C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\pREDICADOS\obj\Debug\pREDICADOS.exe
 C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\pREDICADOS\obj\Debug\pREDICADOS.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Predicados\bin\Debug\pREDICADOS.exe.config
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Predicados\bin\Debug\pREDICADOS.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Predicados\bin\Debug\pREDICADOS.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Predicados\obj\Debug\Predicados.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Predicados\obj\Debug\Predicados.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Predicados\obj\Debug\pREDICADOS.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Predicados\obj\Debug\pREDICADOS.pdb

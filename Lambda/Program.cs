@@ -12,7 +12,7 @@ namespace Lambda
 
     class Program
     {
-
+        //El lambda es ligeramente similar al método anonimo.
         //  =>   Equivale al operador lambda
         //  Seguido viene el la expresion y despoes el bloque de setencia
         static void Main(string[] args)
@@ -35,7 +35,7 @@ namespace Lambda
             mostrar(Convert.ToString(miSuma(4, 40)));
 
             List<int> numeros = new List<int> { 1, 2, 3, 4, 5, 6, 8, 7, 9, 10 };
-            List<int> numPares = numeros.FindAll(i => i % 2 == 0);  //Se usa Lambda a cambio del predicado para ahorrar codigo. Ver predicado en Explorador
+            List<int> numPares = numeros.FindAll((i) => i % 2 == 0);  //Se usa Lambda a cambio del predicado para ahorrar codigo. Ver predicado en Explorador
             foreach (int i in numPares)
             {
                 mostrar(Convert.ToString(i));

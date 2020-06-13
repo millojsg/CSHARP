@@ -5,3 +5,10 @@ C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\Seria
 C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\Serializacion\obj\Debug\Serializacion.csproj.CoreCompileInputs.cache
 C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\Serializacion\obj\Debug\Serializacion.exe
 C:\Users\Desarrollo\Desktop\Documentacion\Proyectos cs\ConsolaCs - Chuleta\Serializacion\obj\Debug\Serializacion.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Serializacion\bin\Debug\Serializacion.exe.config
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Serializacion\bin\Debug\Serializacion.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Serializacion\bin\Debug\Serializacion.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Serializacion\obj\Debug\Serializacion.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Serializacion\obj\Debug\Serializacion.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Serializacion\obj\Debug\Serializacion.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Serializacion\obj\Debug\Serializacion.pdb

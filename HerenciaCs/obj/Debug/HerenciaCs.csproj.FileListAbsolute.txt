@@ -5,3 +5,10 @@ C:\Users\Desarrollo\source\repos\ConsolaCs\HerenciaCs\bin\Debug\HerenciaCs.exe
 C:\Users\Desarrollo\source\repos\ConsolaCs\HerenciaCs\bin\Debug\HerenciaCs.pdb
 C:\Users\Desarrollo\source\repos\ConsolaCs\HerenciaCs\obj\Debug\HerenciaCs.exe
 C:\Users\Desarrollo\source\repos\ConsolaCs\HerenciaCs\obj\Debug\HerenciaCs.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\HerenciaCs\bin\Debug\HerenciaCs.exe.config
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\HerenciaCs\bin\Debug\HerenciaCs.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\HerenciaCs\bin\Debug\HerenciaCs.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\HerenciaCs\obj\Debug\HerenciaCs.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\HerenciaCs\obj\Debug\HerenciaCs.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\HerenciaCs\obj\Debug\HerenciaCs.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\HerenciaCs\obj\Debug\HerenciaCs.pdb

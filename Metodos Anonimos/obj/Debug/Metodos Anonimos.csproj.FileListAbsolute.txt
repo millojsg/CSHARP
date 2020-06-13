@@ -1,0 +1,6 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Metodos Anonimos\obj\Debug\Metodos Anonimos.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Metodos Anonimos\bin\Debug\Metodos Anonimos.exe.config
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Metodos Anonimos\bin\Debug\Metodos Anonimos.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Metodos Anonimos\bin\Debug\Metodos Anonimos.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Metodos Anonimos\obj\Debug\Metodos Anonimos.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Metodos Anonimos\obj\Debug\Metodos Anonimos.pdb

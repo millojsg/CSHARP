@@ -4,3 +4,10 @@ C:\Users\Desarrollo\source\repos\ConsolaCs\Array\bin\Debug\Array.pdb
 C:\Users\Desarrollo\source\repos\ConsolaCs\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
 C:\Users\Desarrollo\source\repos\ConsolaCs\Array\obj\Debug\Array.exe
 C:\Users\Desarrollo\source\repos\ConsolaCs\Array\obj\Debug\Array.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Array\bin\Debug\Array.exe.config
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Array\bin\Debug\Array.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Array\bin\Debug\Array.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Array\obj\Debug\Array.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Array\obj\Debug\Array.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Array\obj\Debug\Array.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Array\obj\Debug\Array.pdb

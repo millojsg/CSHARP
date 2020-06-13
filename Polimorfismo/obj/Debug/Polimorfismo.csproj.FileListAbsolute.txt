@@ -5,3 +5,10 @@ C:\Users\Desarrollo\source\repos\ConsolaCs\Polimorfismo\bin\Debug\Polimorfismo.e
 C:\Users\Desarrollo\source\repos\ConsolaCs\Polimorfismo\bin\Debug\Polimorfismo.pdb
 C:\Users\Desarrollo\source\repos\ConsolaCs\Polimorfismo\obj\Debug\Polimorfismo.exe
 C:\Users\Desarrollo\source\repos\ConsolaCs\Polimorfismo\obj\Debug\Polimorfismo.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Polimorfismo\bin\Debug\Polimorfismo.exe.config
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Polimorfismo\bin\Debug\Polimorfismo.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Polimorfismo\bin\Debug\Polimorfismo.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Polimorfismo\obj\Debug\Polimorfismo.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Polimorfismo\obj\Debug\Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Polimorfismo\obj\Debug\Polimorfismo.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Polimorfismo\obj\Debug\Polimorfismo.pdb

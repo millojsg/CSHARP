@@ -1,0 +1,7 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Eventos II\obj\Debug\Eventos II.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Eventos II\obj\Debug\Eventos II.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Eventos II\bin\Debug\Eventos II.exe.config
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Eventos II\bin\Debug\Eventos II.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Eventos II\bin\Debug\Eventos II.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Eventos II\obj\Debug\Eventos II.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Eventos II\obj\Debug\Eventos II.pdb

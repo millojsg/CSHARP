@@ -1,0 +1,6 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\LINQ\bin\Debug\LINQ.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\LINQ\bin\Debug\LINQ.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\LINQ\obj\Debug\LINQ I.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\LINQ\obj\Debug\LINQ I.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\LINQ\obj\Debug\LINQ.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\LINQ\obj\Debug\LINQ.pdb

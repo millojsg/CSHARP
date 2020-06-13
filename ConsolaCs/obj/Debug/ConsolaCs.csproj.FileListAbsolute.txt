@@ -4,3 +4,10 @@ C:\Users\Desarrollo\source\repos\ConsolaCs\ConsolaCs\bin\Debug\ConsolaCs.pdb
 C:\Users\Desarrollo\source\repos\ConsolaCs\ConsolaCs\obj\Debug\ConsolaCs.csproj.CoreCompileInputs.cache
 C:\Users\Desarrollo\source\repos\ConsolaCs\ConsolaCs\obj\Debug\ConsolaCs.exe
 C:\Users\Desarrollo\source\repos\ConsolaCs\ConsolaCs\obj\Debug\ConsolaCs.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\ConsolaCs\bin\Debug\ConsolaCs.exe.config
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\ConsolaCs\bin\Debug\ConsolaCs.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\ConsolaCs\bin\Debug\ConsolaCs.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\ConsolaCs\obj\Debug\ConsolaCs.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\ConsolaCs\obj\Debug\ConsolaCs.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\ConsolaCs\obj\Debug\ConsolaCs.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\ConsolaCs\obj\Debug\ConsolaCs.pdb

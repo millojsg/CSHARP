@@ -1,0 +1,7 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Serializacion III\bin\Debug\Serializacion III.exe.config
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Serializacion III\bin\Debug\Serializacion III.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Serializacion III\bin\Debug\Serializacion III.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Serializacion III\obj\Debug\Serializacion III.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Serializacion III\obj\Debug\Serializacion III.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Serializacion III\obj\Debug\Serializacion III.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Serializacion III\obj\Debug\Serializacion III.pdb

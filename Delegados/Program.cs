@@ -7,6 +7,17 @@ namespace Delegados
 {
     class Program
     {
+        //El delegado es la declaracion de una variable que funciona como apuntador
+        //hacia un espacion de memoria.
+
+        //Existen delegados ya declarados por c#, Action<> que es un delegado que no devuelve valor.
+        //Y Func<> que es un delegado que devuelve un objeto, el tipo del objeto que devuelve es declarado al final.
+        //Ejemplos:
+        Action<int, int> miDelegado;  //En este cado la firma de argumentos serian de dos enteros
+        Func<int, int, string> miDelegadoFuncion; //En este cado la firma de argumentos serian de dos enteros y el retorno un string
+
+
+
         public delegate void miFirma(int a, int b);
 
         static void Main(string[] args)

@@ -1,0 +1,6 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados\bin\Debug\Delegados.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados\bin\Debug\Delegados.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados\obj\Debug\Delegados I.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados\obj\Debug\Delegados I.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados\obj\Debug\Delegados.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados\obj\Debug\Delegados.pdb
