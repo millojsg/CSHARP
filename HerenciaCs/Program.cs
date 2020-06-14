@@ -92,22 +92,4 @@ namespace HerenciaCs
             Console.WriteLine("Soy capaz de galopar");
         }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }

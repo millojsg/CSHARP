@@ -5,14 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 
 //Las clases contienen métodos, propiedades y eventos.
-//El evento siempre requiere de un delegado
+//El evento siempre requiere de un delegado.
 //La declaracion de evento en un formalismo recomendado por Microsoft.
 //Este es un ejemplo para levantar un evento cada vez que se divida por cero.
-//La clase creadora del evento se le conoce como editor
-//La clase que maneja el evento se le conoce como suscriptor
-//En este ejemplo el evento no devuelva valores
-//Para que el evento devuelva valores se tiene que crear una clase que derive de la clase EventArgs
-
+//La clase creadora del evento se le conoce como editor.
+//La clase que maneja el evento se le conoce como suscriptor.
+//En este ejemplo la firma del delegado del evento no devuelve valores.
+//Para que el delegado devuelva valores se tiene que crear una clase que derive de la clase EventArgs.
+//La otra forma de crear notificaciones es atraves de excepciones.
 
 namespace Eventos
 {

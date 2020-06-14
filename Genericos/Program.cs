@@ -17,14 +17,10 @@ namespace Genericos
             textos.Agregar("Jose");
             textos.Agregar("Maria");
 
-            String nombrePersona = (string)textos.GetElemento(1);
+            string nombrePersona = (string)textos.GetElemento(1);
 
             Console.WriteLine(nombrePersona);
             Console.ReadLine();
-
-
-
-
         }
     }
 

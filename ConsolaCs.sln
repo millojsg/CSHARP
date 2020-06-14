@@ -43,6 +43,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eventos", "Eventos\Eventos.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eventos II", "Eventos II\Eventos II.csproj", "{6328F408-B8D3-4F84-B542-0C0E69966D45}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2AD0A8D2-03C1-4095-99B7-A9023D057BC2}"
+	ProjectSection(SolutionItems) = preProject
+		Clases.txt = Clases.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task", "Task\Task.csproj", "{DFF2717B-A25E-40ED-AADA-5CB793E050AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerable", "IEnumerable\IEnumerable.csproj", "{27FAEA21-B374-4C26-B6FF-C7E6FB6D02ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +138,14 @@ Global
 		{6328F408-B8D3-4F84-B542-0C0E69966D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6328F408-B8D3-4F84-B542-0C0E69966D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6328F408-B8D3-4F84-B542-0C0E69966D45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFF2717B-A25E-40ED-AADA-5CB793E050AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFF2717B-A25E-40ED-AADA-5CB793E050AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFF2717B-A25E-40ED-AADA-5CB793E050AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFF2717B-A25E-40ED-AADA-5CB793E050AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27FAEA21-B374-4C26-B6FF-C7E6FB6D02ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FAEA21-B374-4C26-B6FF-C7E6FB6D02ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FAEA21-B374-4C26-B6FF-C7E6FB6D02ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FAEA21-B374-4C26-B6FF-C7E6FB6D02ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

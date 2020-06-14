@@ -19,6 +19,7 @@ namespace Eventos_II
 
     class Program
     {
+        //Clase suscriptor
         static void Main(string[] args)
         {
             Operaciones miOperacion = new Operaciones();
@@ -66,9 +67,12 @@ namespace Eventos_II
         private static void miManejador(object sender, misArgumentos e) //Manejador del evento
         {
             Console.WriteLine($"Mensaje activado por evento. Mensaje: {e.Mensaje} ; Valor:{e.Valor}");
+            //es posible retornar valores a la clase editor. Para que redefina el flujo del codigo, ej.
+            e.Valor ++;
         }
     }
 
+    //Clase editor
     class Operaciones
     {
         public delegate void miDelegado(object sender, misArgumentos e);
@@ -86,17 +90,15 @@ namespace Eventos_II
                 }
                 else
                 {
-                    //Con el simbolo de interrogacion 
-                    //El codigo no se ejecuta si miEvento es null
+                    //Con el simbolo de interrogacion, El codigo no se ejecuta si miEvento es null
                     //En la clase misArgumentos se puede definir un constructor, seria mas estetico.
-                    miEvento?.Invoke(this, new misArgumentos {Mensaje="Este numero no es par", Valor=valor});
+                    miEvento?.Invoke(this, new misArgumentos {Mensaje="Este numero no es par, sera cambiado por la clase suscriptora", Valor=valor});
+                    resultado.Add(valor) //este es un valor devuelto por el suscriptor, manejador de eventos
                 }
-            }
-                       
+            }        
             return resultado;
         }
     }
-
 
     class misArgumentos : EventArgs
     {

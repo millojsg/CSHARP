@@ -1,0 +1,28 @@
+CLASES
+Existen dos tipos, 
+	Las clases de intancias <-- Que se pueden instanciar.
+	Las clases estaticas <-- No se pueden instanciar.
+
+REGLAS DE LAS CLASES
+	1 Todas la clases se les cree el constructor,si no, el compilador agrega un constructor por defecto.
+	2 La clase derivada debe invocar el constructor de la clase base, este se invoca con : <clase base>.
+	3 Todas las clases tienen una clase base, Por defecto clase Object <--Super Clase
+
+Ejemplo
+
+	class claseBase:Object
+	{
+		public claseBase(int i):Object 
+		{
+			//codigo de inicializacion	
+		}
+	}
+
+	
+	class claseDerivada: claseBase
+	{
+		public claseDerivada(int N): base(N)
+		{
+			//codigo de inicializacion
+		}	
+	}
