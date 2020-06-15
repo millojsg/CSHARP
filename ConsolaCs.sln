@@ -52,6 +52,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Task", "Task\Task.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerable", "IEnumerable\IEnumerable.csproj", "{27FAEA21-B374-4C26-B6FF-C7E6FB6D02ED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerable II", "IEnumerable II\IEnumerable II.csproj", "{D0F730FC-0F4A-4DCE-BF13-199C6999F9CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo de extension", "Metodo de exetension\Metodo de extension.csproj", "{C1BB60AF-B1E1-4827-828A-8FBC5C95B256}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -146,6 +150,14 @@ Global
 		{27FAEA21-B374-4C26-B6FF-C7E6FB6D02ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27FAEA21-B374-4C26-B6FF-C7E6FB6D02ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27FAEA21-B374-4C26-B6FF-C7E6FB6D02ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0F730FC-0F4A-4DCE-BF13-199C6999F9CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0F730FC-0F4A-4DCE-BF13-199C6999F9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0F730FC-0F4A-4DCE-BF13-199C6999F9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0F730FC-0F4A-4DCE-BF13-199C6999F9CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1BB60AF-B1E1-4827-828A-8FBC5C95B256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1BB60AF-B1E1-4827-828A-8FBC5C95B256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1BB60AF-B1E1-4827-828A-8FBC5C95B256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1BB60AF-B1E1-4827-828A-8FBC5C95B256}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

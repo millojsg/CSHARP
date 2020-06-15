@@ -1,0 +1,7 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Metodo de exetension\bin\Debug\Metodo de exetension.exe.config
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Metodo de exetension\bin\Debug\Metodo de exetension.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Metodo de exetension\bin\Debug\Metodo de exetension.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Metodo de exetension\obj\Debug\Metodo de extension.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Metodo de exetension\obj\Debug\Metodo de extension.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Metodo de exetension\obj\Debug\Metodo de exetension.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Metodo de exetension\obj\Debug\Metodo de exetension.pdb

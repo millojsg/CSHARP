@@ -8,21 +8,53 @@ REGLAS DE LAS CLASES
 	2 La clase derivada debe invocar el constructor de la clase base, este se invoca con : <clase base>.
 	3 Todas las clases tienen una clase base, Por defecto clase Object <--Super Clase
 
-Ejemplo
+				Ejemplo
 
-	class claseBase:Object
-	{
-		public claseBase(int i):Object 
-		{
-			//codigo de inicializacion	
-		}
-	}
+					class claseBase:Object
+					{
+						public claseBase(int i):Object 
+						{
+							//codigo de inicializacion	
+						}
+					}
 
 	
-	class claseDerivada: claseBase
-	{
-		public claseDerivada(int N): base(N)
-		{
-			//codigo de inicializacion
-		}	
-	}
+					class claseDerivada: claseBase
+					{
+						public claseDerivada(int N): base(N)
+						{
+							//codigo de inicializacion
+						}	
+					}
+
+
+CARACTERISTICAS PRINCIPALES 
+
+ESTATICAS
+-Clases, No puedes tener un constructor de instancias pero si deben tener un constructor estatico.
+-Clases, No se pueden instanciar.
+-Clases, Estan selladas.
+-Clases,Solo contiene miembros estaticos.
+-Clases, no se puede heredar.
+-Clases, no puede tener miembros protected..
+-Mienbro, es ivocable antecediendo en nombre de la clase sin necesidad de instanciarla.
+-Miembro, solo existe una copia independiente del numero de instancias creadas.
+-Los métodos y propiedades estaticos no tienen aceeso a campos y eventos no estaticos.
+-Los métodos estaticos se pueden sobrecargar pero no invalidar.
+-Los campos <const> son estaticos.
+-Las variables locales no pueden ser estaticas.
+-Los métodos estaticos no pueden invocar métodos no estaticos.
+-Solo la clase estatica puede tener métodosd de extension.
+
+
+
+NO ESTATICA
+-Puede contener miembros (Método, Campos, Propiedades y Eventos) estaticos.
+-Todas las variables locales.
+
+
+
+
+
+
+
