@@ -1,0 +1,10 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Async_Await\obj\Debug\Async_Await.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Async_Await\obj\Debug\Async_Await.Form1.resources
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Async_Await\obj\Debug\Async_Await.Properties.Resources.resources
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Async_Await\obj\Debug\Async_Await.csproj.GenerateResource.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Async_Await\obj\Debug\Async_Await.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Async_Await\bin\Debug\Async_Await.exe.config
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Async_Await\bin\Debug\Async_Await.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Async_Await\bin\Debug\Async_Await.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Async_Await\obj\Debug\Async_Await.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Async_Await\obj\Debug\Async_Await.pdb

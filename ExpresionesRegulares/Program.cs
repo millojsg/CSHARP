@@ -33,6 +33,15 @@ namespace ExpresionesRegulares
             {
                 Console.WriteLine("El texto no contiene +56 | 4514");
             }
+
+            //USANDO REPLACE PARA QUE QUITAR DESDE | HASTA EL FINAL
+            //CADENA EJEMPLO ---> BETA - Instalador Contabilidad (Grilla det com).msi | 2020-06-17 08:42
+            string miCadena = "BETA - Instalador Contabilidad(Grilla det com).msi | 2020 - 06 - 17 08:42";
+            string patronII = @" \|.*";
+            Console.WriteLine(System.Text.RegularExpressions.Regex.Replace(miCadena,patronII , String.Empty));
+
+
+
             Console.ReadLine();
         }
     }

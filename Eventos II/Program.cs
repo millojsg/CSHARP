@@ -93,7 +93,7 @@ namespace Eventos_II
                     //Con el simbolo de interrogacion, El codigo no se ejecuta si miEvento es null
                     //En la clase misArgumentos se puede definir un constructor, seria mas estetico.
                     miEvento?.Invoke(this, new misArgumentos {Mensaje="Este numero no es par, sera cambiado por la clase suscriptora", Valor=valor});
-                    resultado.Add(valor) //este es un valor devuelto por el suscriptor, manejador de eventos
+                    resultado.Add(valor); //este es un valor devuelto por el suscriptor, manejador de eventos
                 }
             }        
             return resultado;
