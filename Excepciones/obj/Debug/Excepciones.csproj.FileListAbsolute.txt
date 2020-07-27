@@ -1,0 +1,7 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Excepciones\bin\Debug\Excepciones.exe.config
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Excepciones\bin\Debug\Excepciones.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Excepciones\obj\Debug\Excepciones.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Excepciones\obj\Debug\Excepciones.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
