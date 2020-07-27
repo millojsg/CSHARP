@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Excepciones
 {
@@ -13,12 +9,14 @@ namespace Excepciones
             int a = 100;
             int b = 10;
 
+            Console.WriteLine("Ejemplo de excepcion controlada");
             try
             {
                 do
                 {
                     a = a / b;
 
+                    //Lanzar excepcion
                     if (a == 0) { throw new miExcepcion("Error a = 0"); }
 
                 } while (true);
@@ -30,13 +28,14 @@ namespace Excepciones
                 Console.WriteLine("Excepcion controlada");
                 Console.WriteLine(ex.Message);
             }
+            Console.WriteLine("Presione enter para avanzar al ejemplo 2");
             Console.ReadLine();
 
 
             //OTRO EJEMPLO
-            Console.WriteLine("Ejemplo 2*************");
-           a = 100;
-           b = 0;
+            Console.WriteLine("Ejemplo 2: Excepcion no controlada");
+            a = 100;
+            b = 0;
 
             try
             {
@@ -49,20 +48,13 @@ namespace Excepciones
             Console.ReadLine();
 
             Console.WriteLine("Terminado");
-
-
-
-
-
-
-
-
-
         }
     }
 
+    //Es importante que para crear una clase excepciones esta debe heredar de Exception
     class miExcepcion : Exception
     {
+        //Construtor básico cuando se hereda una clase base determinada
         public miExcepcion() : base() { }
         public miExcepcion(string message) : base(message) { }
         public miExcepcion(string message, string mensajeUsuario) : base(message) { Console.WriteLine(mensajeUsuario); }
