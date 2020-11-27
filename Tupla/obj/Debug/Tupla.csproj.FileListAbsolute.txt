@@ -1,0 +1,7 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Tupla\bin\Debug\Tupla.exe.config
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Tupla\bin\Debug\Tupla.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Tupla\bin\Debug\Tupla.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Tupla\obj\Debug\Tupla.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Tupla\obj\Debug\Tupla.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Tupla\obj\Debug\Tupla.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Tupla\obj\Debug\Tupla.pdb

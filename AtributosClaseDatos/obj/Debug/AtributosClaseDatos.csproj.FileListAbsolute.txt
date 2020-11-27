@@ -1,0 +1,7 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\AtributosClaseDatos\bin\Debug\AtributosClaseDatos.exe.config
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\AtributosClaseDatos\bin\Debug\AtributosClaseDatos.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\AtributosClaseDatos\bin\Debug\AtributosClaseDatos.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\AtributosClaseDatos\obj\Debug\AtributosClaseDatos.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\AtributosClaseDatos\obj\Debug\AtributosClaseDatos.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\AtributosClaseDatos\obj\Debug\AtributosClaseDatos.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\AtributosClaseDatos\obj\Debug\AtributosClaseDatos.pdb

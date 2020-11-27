@@ -1,0 +1,7 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\CreateDirectory\bin\Debug\CreateDirectory.exe.config
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\CreateDirectory\bin\Debug\CreateDirectory.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\CreateDirectory\bin\Debug\CreateDirectory.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\CreateDirectory\obj\Debug\CreateDirectory.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\CreateDirectory\obj\Debug\CreateDirectory.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\CreateDirectory\obj\Debug\CreateDirectory.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\CreateDirectory\obj\Debug\CreateDirectory.pdb

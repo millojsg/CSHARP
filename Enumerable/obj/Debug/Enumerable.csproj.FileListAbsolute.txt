@@ -1,0 +1,7 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Enumerable\bin\Debug\Enumerable.exe.config
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Enumerable\bin\Debug\Enumerable.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Enumerable\bin\Debug\Enumerable.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Enumerable\obj\Debug\Enumerable.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Enumerable\obj\Debug\Enumerable.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Enumerable\obj\Debug\Enumerable.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Enumerable\obj\Debug\Enumerable.pdb

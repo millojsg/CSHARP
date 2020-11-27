@@ -1,0 +1,7 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML Leer\bin\Debug\XML Leer.exe.config
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML Leer\bin\Debug\XML Leer.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML Leer\bin\Debug\XML Leer.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML Leer\obj\Debug\XML Leer.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML Leer\obj\Debug\XML Leer.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML Leer\obj\Debug\XML Leer.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML Leer\obj\Debug\XML Leer.pdb

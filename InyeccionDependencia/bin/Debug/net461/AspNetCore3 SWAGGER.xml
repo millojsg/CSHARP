@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>AspNetCore3 SWAGGER</name>
+    </assembly>
+    <members>
+        <member name="M:InyeccionDependencia.Controllers.ValuesController.Get">
+            <summary>
+            Retorna mi nombre y apellido
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:InyeccionDependencia.Controllers.ValuesController.Get(System.Int32)">
+            <summary>
+            Retorna el numero que introduces.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

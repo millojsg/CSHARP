@@ -1,0 +1,7 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\CSV_XML\bin\Debug\CSV_XML.exe.config
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\CSV_XML\bin\Debug\CSV_XML.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\CSV_XML\bin\Debug\CSV_XML.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\CSV_XML\obj\Debug\CSV_XML.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\CSV_XML\obj\Debug\CSV_XML.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\CSV_XML\obj\Debug\CSV_XML.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\CSV_XML\obj\Debug\CSV_XML.pdb

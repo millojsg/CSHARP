@@ -1,0 +1,35 @@
+﻿NOTAS
+19 11 2020
+
+Para usar swagger considerar lo siguiente:
+
+-Instalar paquete nuget → Swashbuckle.AspNetCore ← 
+-En propiedades del proyecto debug, Colocar → swagger ← en la casilla de iniciar explorador.
+-En propiedades del proyecto →copile←, Habilitar archivo de documentacion XML.
+-Inscribir swagger en startup > configuration
+	// Implementacion de Swagger
+            object p = services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Emilio Api", Version = "v1" });
+                // Set the comments path for the Swagger JSON and UI.
+                var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+                var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+                c.IncludeXmlComments(xmlPath);
+            });
+
+-Solicitar mostrar swagger en startup>configure
+	        // ↓ Swagger
+            // Enable middleware to serve generated Swagger as a JSON endpoint.
+            app.UseSwagger();
+            
+            // ↓ Swagger
+            // Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.),
+            // specifying the Swagger JSON endpoint.
+            app.UseSwaggerUI(c =>
+            {
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Emilio Api V1");
+            });
+
+
+
+

@@ -1,0 +1,13 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\YieldReturn\bin\Debug\netcoreapp3.1\YieldReturn.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\YieldReturn\bin\Debug\netcoreapp3.1\YieldReturn.deps.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\YieldReturn\bin\Debug\netcoreapp3.1\YieldReturn.runtimeconfig.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\YieldReturn\bin\Debug\netcoreapp3.1\YieldReturn.runtimeconfig.dev.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\YieldReturn\bin\Debug\netcoreapp3.1\YieldReturn.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\YieldReturn\bin\Debug\netcoreapp3.1\YieldReturn.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\YieldReturn\obj\Debug\netcoreapp3.1\YieldReturn.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\YieldReturn\obj\Debug\netcoreapp3.1\YieldReturn.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\YieldReturn\obj\Debug\netcoreapp3.1\YieldReturn.AssemblyInfo.cs
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\YieldReturn\obj\Debug\netcoreapp3.1\YieldReturn.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\YieldReturn\obj\Debug\netcoreapp3.1\YieldReturn.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\YieldReturn\obj\Debug\netcoreapp3.1\YieldReturn.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\YieldReturn\obj\Debug\netcoreapp3.1\YieldReturn.genruntimeconfig.cache
