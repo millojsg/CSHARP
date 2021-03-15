@@ -1,0 +1,198 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ReadMe</title>
+
+    <style>
+        body {
+            padding: 100px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Formatos Estandar Numericos</h1>
+    <table id="TablaFormatos">
+        <thead>
+            <tr>
+                <th>Format specifier</th>
+                <th>Name</th>
+                <th>Description</th>
+                <th>Examples</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>&quot;C&quot; or &quot;c&quot;</td>
+                <td>Currency</td>
+                <td>Result: A currency value.<br /><br /> Supported by: All numeric types.<br /><br /> Precision specifier: Number of decimal digits.<br /><br /> Default precision specifier: Defined by <a href="/en-us/dotnet/api/system.globalization.numberformatinfo.currencydecimaldigits" data-linktype="absolute-path">NumberFormatInfo.CurrencyDecimalDigits</a>.<br /><br /> More information: <a href="#CFormatString" data-linktype="self-bookmark">The Currency (&quot;C&quot;) Format Specifier</a>.</td>
+                <td>123.456 (&quot;C&quot;, en-US)<br />-&gt; \$123.46<br /><br /> 123.456 (&quot;C&quot;, fr-FR)<br />-&gt; 123,46 €<br /><br /> 123.456 (&quot;C&quot;, ja-JP)<br />-&gt; ¥123<br /><br /> -123.456 (&quot;C3&quot;, en-US)<br />-&gt; (\$123.456)<br /><br /> -123.456 (&quot;C3&quot;, fr-FR)<br />-&gt; -123,456 €<br /><br /> -123.456 (&quot;C3&quot;, ja-JP)<br />-&gt; -¥123.456</td>
+            </tr>
+            <tr>
+                <td>&quot;D&quot; or &quot;d&quot;</td>
+                <td>Decimal</td>
+                <td>Result: Integer digits with optional negative sign.<br /><br /> Supported by: Integral types only.<br /><br /> Precision specifier: Minimum number of digits.<br /><br /> Default precision specifier: Minimum number of digits required.<br /><br /> More information: <a href="#DFormatString" data-linktype="self-bookmark">The Decimal(&quot;D&quot;) Format Specifier</a>.</td>
+                <td>1234 (&quot;D&quot;)<br />-&gt; 1234<br /><br /> -1234 (&quot;D6&quot;)<br />-&gt; -001234</td>
+            </tr>
+            <tr>
+                <td>&quot;E&quot; or &quot;e&quot;</td>
+                <td>Exponential (scientific)</td>
+                <td>Result: Exponential notation.<br /><br /> Supported by: All numeric types.<br /><br /> Precision specifier: Number of decimal digits.<br /><br /> Default precision specifier: 6.<br /><br /> More information: <a href="#EFormatString" data-linktype="self-bookmark">The Exponential (&quot;E&quot;) Format Specifier</a>.</td>
+                <td>1052.0329112756 (&quot;E&quot;, en-US)<br />-&gt; 1.052033E+003<br /><br /> 1052.0329112756 (&quot;e&quot;, fr-FR)<br />-&gt; 1,052033e+003<br /><br /> -1052.0329112756 (&quot;e2&quot;, en-US)<br />-&gt; -1.05e+003<br /><br /> -1052.0329112756 (&quot;E2&quot;, fr-FR)<br />-&gt; -1,05E+003</td>
+            </tr>
+            <tr>
+                <td>&quot;F&quot; or &quot;f&quot;</td>
+                <td>Fixed-point</td>
+                <td>Result: Integral and decimal digits with optional negative sign.<br /><br /> Supported by: All numeric types.<br /><br /> Precision specifier: Number of decimal digits.<br /><br /> Default precision specifier: Defined by <a href="/en-us/dotnet/api/system.globalization.numberformatinfo.numberdecimaldigits" data-linktype="absolute-path">NumberFormatInfo.NumberDecimalDigits</a>.<br /><br /> More information: <a href="#FFormatString" data-linktype="self-bookmark">The Fixed-Point (&quot;F&quot;) Format Specifier</a>.</td>
+                <td>1234.567 (&quot;F&quot;, en-US)<br />-&gt; 1234.57<br /><br /> 1234.567 (&quot;F&quot;, de-DE)<br />-&gt; 1234,57<br /><br /> 1234 (&quot;F1&quot;, en-US)<br />-&gt; 1234.0<br /><br /> 1234 (&quot;F1&quot;, de-DE)<br />-&gt; 1234,0<br /><br /> -1234.56 (&quot;F4&quot;, en-US)<br />-&gt; -1234.5600<br /><br /> -1234.56 (&quot;F4&quot;, de-DE)<br />-&gt; -1234,5600</td>
+            </tr>
+            <tr>
+                <td>&quot;G&quot; or &quot;g&quot;</td>
+                <td>General</td>
+                <td>Result: The more compact of either fixed-point or scientific notation.<br /><br /> Supported by: All numeric types.<br /><br /> Precision specifier: Number of significant digits.<br /><br /> Default precision specifier: Depends on numeric type.<br /><br /> More information: <a href="#GFormatString" data-linktype="self-bookmark">The General (&quot;G&quot;) Format Specifier</a>.</td>
+                <td>-123.456 (&quot;G&quot;, en-US)<br />-&gt; -123.456<br /><br /> -123.456 (&quot;G&quot;, sv-SE)<br />-&gt; -123,456<br /><br /> 123.4546 (&quot;G4&quot;, en-US)<br />-&gt; 123.5<br /><br /> 123.4546 (&quot;G4&quot;, sv-SE)<br />-&gt; 123,5<br /><br /> -1.234567890e-25 (&quot;G&quot;, en-US)<br />-&gt; -1.23456789E-25<br /><br /> -1.234567890e-25 (&quot;G&quot;, sv-SE)<br />-&gt; -1,23456789E-25</td>
+            </tr>
+            <tr>
+                <td>&quot;N&quot; or &quot;n&quot;</td>
+                <td>Number</td>
+                <td>Result: Integral and decimal digits, group separators, and a decimal separator with optional negative sign.<br /><br /> Supported by: All numeric types.<br /><br /> Precision specifier: Desired number of decimal places.<br /><br /> Default precision specifier: Defined by <a href="/en-us/dotnet/api/system.globalization.numberformatinfo.numberdecimaldigits" data-linktype="absolute-path">NumberFormatInfo.NumberDecimalDigits</a>.<br /><br /> More information: <a href="#NFormatString" data-linktype="self-bookmark">The Numeric (&quot;N&quot;) Format Specifier</a>.</td>
+                <td>1234.567 (&quot;N&quot;, en-US)<br />-&gt; 1,234.57<br /><br /> 1234.567 (&quot;N&quot;, ru-RU)<br />-&gt; 1 234,57<br /><br /> 1234 (&quot;N1&quot;, en-US)<br />-&gt; 1,234.0<br /><br /> 1234 (&quot;N1&quot;, ru-RU)<br />-&gt; 1 234,0<br /><br /> -1234.56 (&quot;N3&quot;, en-US)<br />-&gt; -1,234.560<br /><br /> -1234.56 (&quot;N3&quot;, ru-RU)<br />-&gt; -1 234,560</td>
+            </tr>
+            <tr>
+                <td>&quot;P&quot; or &quot;p&quot;</td>
+                <td>Percent</td>
+                <td>Result: Number multiplied by 100 and displayed with a percent symbol.<br /><br /> Supported by: All numeric types.<br /><br /> Precision specifier: Desired number of decimal places.<br /><br /> Default precision specifier: Defined by  <a href="/en-us/dotnet/api/system.globalization.numberformatinfo.percentdecimaldigits" data-linktype="absolute-path">NumberFormatInfo.PercentDecimalDigits</a>.<br /><br /> More information: <a href="#PFormatString" data-linktype="self-bookmark">The Percent (&quot;P&quot;) Format Specifier</a>.</td>
+                <td>1 (&quot;P&quot;, en-US)<br />-&gt; 100.00 %<br /><br /> 1 (&quot;P&quot;, fr-FR)<br />-&gt; 100,00 %<br /><br /> -0.39678 (&quot;P1&quot;, en-US)<br />-&gt; -39.7 %<br /><br /> -0.39678 (&quot;P1&quot;, fr-FR)<br />-&gt; -39,7 %</td>
+            </tr>
+            <tr>
+                <td>&quot;R&quot; or &quot;r&quot;</td>
+                <td>Round-trip</td>
+                <td>Result: A string that can round-trip to an identical number.<br /><br /> Supported by: <a href="/en-us/dotnet/api/system.single" data-linktype="absolute-path">Single</a>, <a href="/en-us/dotnet/api/system.double" data-linktype="absolute-path">Double</a>, and <a href="/en-us/dotnet/api/system.numerics.biginteger" data-linktype="absolute-path">BigInteger</a>.<br /><br /> Note: Recommended for the <a href="/en-us/dotnet/api/system.numerics.biginteger" data-linktype="absolute-path">BigInteger</a> type only. For <a href="/en-us/dotnet/api/system.double" data-linktype="absolute-path">Double</a> types, use &quot;G17&quot;; for <a href="/en-us/dotnet/api/system.single" data-linktype="absolute-path">Single</a> types, use &quot;G9&quot;. <br> Precision specifier: Ignored.<br /><br /> More information: <a href="#RFormatString" data-linktype="self-bookmark">The Round-trip (&quot;R&quot;) Format Specifier</a>.</td>
+                <td>123456789.12345678 (&quot;R&quot;)<br />-&gt; 123456789.12345678<br /><br /> -1234567890.12345678 (&quot;R&quot;)<br />-&gt; -1234567890.1234567</td>
+            </tr>
+            <tr>
+                <td>&quot;X&quot; or &quot;x&quot;</td>
+                <td>Hexadecimal</td>
+                <td>Result: A hexadecimal string.<br /><br /> Supported by: Integral types only.<br /><br /> Precision specifier: Number of digits in the result string.<br /><br /> More information: <a href="#XFormatString" data-linktype="self-bookmark">The HexaDecimal (&quot;X&quot;) Format Specifier</a>.</td>
+                <td>255 (&quot;X&quot;)<br />-&gt; FF<br /><br /> -1 (&quot;x&quot;)<br />-&gt; ff<br /><br /> 255 (&quot;x4&quot;)<br />-&gt; 00ff<br /><br /> -1 (&quot;X4&quot;)<br />-&gt; 00FF</td>
+            </tr>
+            <tr>
+                <td>Any other single character</td>
+                <td>Unknown specifier</td>
+                <td>Result: Throws a <a href="/en-us/dotnet/api/system.formatexception" data-linktype="absolute-path">FormatException</a> at run time.</td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+
+    <h1>TIPO DE VARIABLES PRIMITIVAS</h1>
+    <table border="1" cellspacing="0" cellpadding="2" width="650">
+        <tbody>
+            <tr>
+                <td width="101" valign="top"><strong>Tipo .NET</strong></td>
+                <td width="137" valign="top"><strong>Descripción</strong></td>
+                <td width="174" valign="top"><strong>Rango</strong></td>
+                <td width="84" valign="top"><strong>Tipo VB.NET</strong></td>
+                <td width="70" valign="top"><strong>Tipo C#</strong></td>
+            </tr>
+            <tr>
+                <td width="101" valign="top">System.SByte</td>
+                <td width="137" valign="top">Entero con signo de 8 bits</td>
+                <td width="174" valign="top">128 a 127</td>
+                <td width="84" valign="top">SByte</td>
+                <td width="70" valign="top">sbyte</td>
+            </tr>
+            <tr>
+                <td width="101" valign="top">System.Int16</td>
+                <td width="137" valign="top">Entero con signo de 16 bits</td>
+                <td width="174" valign="top">-32,768 a 32,767</td>
+                <td width="84" valign="top">Short</td>
+                <td width="70" valign="top">short</td>
+            </tr>
+            <tr>
+                <td width="101" valign="top">System.Int32</td>
+                <td width="137" valign="top">Entero con signo de 32 bits</td>
+                <td width="174" valign="top">-2,147,483,648 a 2,147,483,647</td>
+                <td width="84" valign="top">Integer</td>
+                <td width="70" valign="top">int</td>
+            </tr>
+            <tr>
+                <td width="101" valign="top">System.Int64</td>
+                <td width="137" valign="top">Entero con signo de 64 bits</td>
+                <td width="174" valign="top">-9,223,372,036,854,775,808 a 9,223,372,036,854,775,807</td>
+                <td width="84" valign="top">Long</td>
+                <td width="70" valign="top">long</td>
+            </tr>
+            <tr>
+                <td width="101" valign="top">System.Byte</td>
+                <td width="137" valign="top">Entero sin signo de 8 bits</td>
+                <td width="174" valign="top">0 a 255</td>
+                <td width="84" valign="top">Byte</td>
+                <td width="70" valign="top">byte</td>
+            </tr>
+            <tr>
+                <td width="101" valign="top">System.UInt16</td>
+                <td width="137" valign="top">Entero sin signo de 16 bits</td>
+                <td width="174" valign="top">0 a 65,535</td>
+                <td width="84" valign="top">UShort</td>
+                <td width="70" valign="top">ushort</td>
+            </tr>
+            <tr>
+                <td width="101" valign="top">System.UInt32</td>
+                <td width="137" valign="top">Entero sin signo de 32 bits</td>
+                <td width="174" valign="top">0 a 4,294,967,295</td>
+                <td width="84" valign="top">UInteger</td>
+                <td width="70" valign="top">uint</td>
+            </tr>
+            <tr>
+                <td width="101" valign="top">System.UInt64</td>
+                <td width="137" valign="top">Entero sin signo de 64 bits</td>
+                <td width="174" valign="top">0 a 18,446,744,073,709,551,615</td>
+                <td width="84" valign="top">ULong</td>
+                <td width="70" valign="top">ulong</td>
+            </tr>
+            <tr>
+                <td width="101" valign="top">System.Single</td>
+                <td width="137" valign="top">Número de punto flotante de 32 bits con 7 dígitos significativos</td>
+                <td width="174" valign="top">+/-1.5 X 10<sup>245</sup> a +/-3.4 X 10<sup>38</sup></td>
+                <td width="84" valign="top">Single</td>
+                <td width="70" valign="top">float</td>
+            </tr>
+            <tr>
+                <td width="101" valign="top">System.Double</td>
+                <td width="137" valign="top">Número de punto flotante de 64 bits con 16 dígitos significativos</td>
+                <td width="174" valign="top">+/-5.0 X 10<sup>2324</sup> a +/-1.7 X 10<sup>308</sup></td>
+                <td width="84" valign="top">Double</td>
+                <td width="70" valign="top">double</td>
+            </tr>
+            <tr>
+                <td width="101" valign="top">System.Decimal</td>
+                <td width="137" valign="top">Notación decimal de 128 bits de alta precisión decimal con 28 dígitos significativos</td>
+                <td width="174" valign="top">+/-1.0 X 10<sup>228</sup> a +/-7.9 X 10<sup>28</sup></td>
+                <td width="84" valign="top">Decimal</td>
+                <td width="70" valign="top">decimal</td>
+            </tr>
+            <tr>
+                <td width="101" valign="top">System.Boolean</td>
+                <td width="137" valign="top">Representa verdadero o falso</td>
+                <td width="174" valign="top"><em>true</em> o <em>false</em></td>
+                <td width="84" valign="top">Boolean</td>
+                <td width="70" valign="top">bool</td>
+            </tr>
+            <tr>
+                <td width="101" valign="top">System.Char</td>
+                <td width="137" valign="top">Representa un carácter <a href="http://en.wikipedia.org/wiki/Unicode" target="_blank">Unicode</a> de 16 bits</td>
+                <td width="174" valign="top"></td>
+                <td width="84" valign="top">Char</td>
+                <td width="70" valign="top">char</td>
+            </tr>
+        </tbody>
+    </table>
+
+
+
+</body>
+</html>

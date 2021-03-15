@@ -1,0 +1,12 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\UtilidadesCSharp\bin\Debug\net5.0\UtilidadesCSharp.deps.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\UtilidadesCSharp\bin\Debug\net5.0\UtilidadesCSharp.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\UtilidadesCSharp\bin\Debug\net5.0\ref\UtilidadesCSharp.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\UtilidadesCSharp\bin\Debug\net5.0\UtilidadesCSharp.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\UtilidadesCSharp\obj\Debug\net5.0\UtilidadesCSharp.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\UtilidadesCSharp\obj\Debug\net5.0\UtilidadesCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\UtilidadesCSharp\obj\Debug\net5.0\UtilidadesCSharp.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\UtilidadesCSharp\obj\Debug\net5.0\UtilidadesCSharp.AssemblyInfo.cs
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\UtilidadesCSharp\obj\Debug\net5.0\UtilidadesCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\UtilidadesCSharp\obj\Debug\net5.0\UtilidadesCSharp.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\UtilidadesCSharp\obj\Debug\net5.0\ref\UtilidadesCSharp.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\UtilidadesCSharp\obj\Debug\net5.0\UtilidadesCSharp.pdb
