@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="Este NO es un diagrama de clases, solo se usa utilidad de visual estudios para representar el patron de diseño en una sola clase.&#xD;&#xA;&#xD;&#xA;PSEUDOCÓDIGO&#xD;&#xA;______________________________________________________________________________________________&#xD;&#xA;| 1.1- Definir campos (constantes, variables primitivas, diccionarios, enum...) en private.   	|&#xD;&#xA;| 1.2- Defilir propiedades.                                                                                                       	|	&#xD;&#xA;|______________________________________________________________________________________________	|&#xD;&#xA;NOTA: DEFINIR VALORES POR DEFECTO EVITANDO LOS NULL.&#xD;&#xA;&#xD;&#xA; 3-Crear constructor. Evitar asignar eventos. La pregunta es: &#xD;&#xA;	Es un valor inicial?. (Reasignar valores por defecto. Configuraciones, etc.)&#xD;&#xA;4-&#xD;&#xA;	&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;">
+    <Position X="6.742" Y="0.6" Height="5.025" Width="5.942" />
+  </Comment>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

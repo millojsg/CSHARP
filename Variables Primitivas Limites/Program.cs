@@ -23,8 +23,6 @@ namespace Variables_Primitivas_Limites
             // Mostrar más información desde html.
             string path = AppDomain.CurrentDomain.BaseDirectory;
 
-
-
             util.ExecuteCommand($@"start /max chrome ""{path}\StandarNumericaFormat.html""");
             
             Console.WriteLine("Hello World!");
@@ -32,6 +30,7 @@ namespace Variables_Primitivas_Limites
             mostrar($"INTEGER: {String.Format("{0:N0}", int.MaxValue)} - {String.Format("{0:N}", int.MinValue)}");
             mostrar($"LONG: {String.Format("{0:N0}", long.MaxValue)} - {String.Format("{0:N}", long.MinValue)}");
             mostrar($"BYTE: {String.Format("{0:N0}", byte.MaxValue)} - {String.Format("{0:N}", byte.MinValue)}");
+            mostrar($"INTEGER Convert.ToInt32(NULL): {Convert.ToInt32(null)}");
             mostrar("Ver más info en buscador Web...");
             esperar();
         }

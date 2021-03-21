@@ -50,8 +50,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerable", "IEnumerable\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IEnumerable II", "IEnumerable II\IEnumerable II.csproj", "{D0F730FC-0F4A-4DCE-BF13-199C6999F9CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo de extension", "Metodo de exetension\Metodo de extension.csproj", "{C1BB60AF-B1E1-4827-828A-8FBC5C95B256}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpresionesRegulares", "ExpresionesRegulares\ExpresionesRegulares.csproj", "{36D05239-ED90-4A6A-ADBF-1671931BC3B7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Async_Await", "Async_Await\Async_Await.csproj", "{6B218843-413B-43E6-B592-718CC3A50ACC}"
@@ -88,11 +86,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OperatorOverload", "Operato
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflexion", "Reflexion\Reflexion.csproj", "{A30052C5-28C6-48DE-B87F-18956B95651E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables Primitivas Limites", "Variables Primitivas Limites\Variables Primitivas Limites.csproj", "{06C84700-2810-4014-AB8F-8A2128E6F017}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Variables Primitivas Limites", "Variables Primitivas Limites\Variables Primitivas Limites.csproj", "{06C84700-2810-4014-AB8F-8A2128E6F017}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertirDataTableDesdeHtml", "ConvertirDataTableDesdeHtml\ConvertirDataTableDesdeHtml.csproj", "{2AB584B0-B8BB-43B1-B8F4-81035B34408C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConvertirDataTableDesdeHtml", "ConvertirDataTableDesdeHtml\ConvertirDataTableDesdeHtml.csproj", "{2AB584B0-B8BB-43B1-B8F4-81035B34408C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilidadesCSharp", "UtilidadesCSharp\UtilidadesCSharp.csproj", "{DA342ABD-FDBB-4E60-8F67-78D01CAFC61E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UtilidadesCSharp", "UtilidadesCSharp\UtilidadesCSharp.csproj", "{DA342ABD-FDBB-4E60-8F67-78D01CAFC61E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arquitectura y patrones de diseño", "Arquitectura y patrones de diseño", "{6076EAF1-B3B5-453C-91A6-718B3833F192}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patron para LookUp 1", "Patron para LookUp 1", "{6A68CF2C-60F7-401B-9299-EB92FA11E3A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arquitectura y Patrones de Diseño", "Arquitectura y Patrones de Diseño\Arquitectura y Patrones de Diseño.csproj", "{B124B42E-89D8-4FCD-AF7F-A74364186377}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo de extension", "Metodo de Extension\Metodo de extension.csproj", "{C1BB60AF-B1E1-4827-828A-8FBC5C95B256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mis Metodos de Extension II", "Mis Metodos de Extension II\Mis Metodos de Extension II.csproj", "{C6149738-37FD-4DC9-A9AB-48031B50B336}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -184,10 +192,6 @@ Global
 		{D0F730FC-0F4A-4DCE-BF13-199C6999F9CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0F730FC-0F4A-4DCE-BF13-199C6999F9CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0F730FC-0F4A-4DCE-BF13-199C6999F9CA}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C1BB60AF-B1E1-4827-828A-8FBC5C95B256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C1BB60AF-B1E1-4827-828A-8FBC5C95B256}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C1BB60AF-B1E1-4827-828A-8FBC5C95B256}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C1BB60AF-B1E1-4827-828A-8FBC5C95B256}.Release|Any CPU.Build.0 = Release|Any CPU
 		{36D05239-ED90-4A6A-ADBF-1671931BC3B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{36D05239-ED90-4A6A-ADBF-1671931BC3B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36D05239-ED90-4A6A-ADBF-1671931BC3B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -272,9 +276,24 @@ Global
 		{DA342ABD-FDBB-4E60-8F67-78D01CAFC61E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA342ABD-FDBB-4E60-8F67-78D01CAFC61E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA342ABD-FDBB-4E60-8F67-78D01CAFC61E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B124B42E-89D8-4FCD-AF7F-A74364186377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B124B42E-89D8-4FCD-AF7F-A74364186377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B124B42E-89D8-4FCD-AF7F-A74364186377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B124B42E-89D8-4FCD-AF7F-A74364186377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1BB60AF-B1E1-4827-828A-8FBC5C95B256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1BB60AF-B1E1-4827-828A-8FBC5C95B256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1BB60AF-B1E1-4827-828A-8FBC5C95B256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1BB60AF-B1E1-4827-828A-8FBC5C95B256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6149738-37FD-4DC9-A9AB-48031B50B336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6149738-37FD-4DC9-A9AB-48031B50B336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6149738-37FD-4DC9-A9AB-48031B50B336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6149738-37FD-4DC9-A9AB-48031B50B336}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6A68CF2C-60F7-401B-9299-EB92FA11E3A3} = {6076EAF1-B3B5-453C-91A6-718B3833F192}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {89663E8B-CE03-44E8-8939-EA8DD8180599}

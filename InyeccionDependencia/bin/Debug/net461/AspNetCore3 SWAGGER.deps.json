@@ -8,7 +8,16 @@
       "TRACE",
       "DEBUG",
       "NETFRAMEWORK",
-      "NET461"
+      "NET461",
+      "NET20_OR_GREATER",
+      "NET30_OR_GREATER",
+      "NET35_OR_GREATER",
+      "NET40_OR_GREATER",
+      "NET45_OR_GREATER",
+      "NET451_OR_GREATER",
+      "NET452_OR_GREATER",
+      "NET46_OR_GREATER",
+      "NET461_OR_GREATER"
     ],
     "languageVersion": "7.3",
     "platform": "AnyCPU",

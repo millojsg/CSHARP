@@ -1,0 +1,16 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Arquitectura y Patrones de Diseño\bin\Debug\net5.0\Arquitectura y Patrones de Diseño.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Arquitectura y Patrones de Diseño\bin\Debug\net5.0\Arquitectura y Patrones de Diseño.deps.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Arquitectura y Patrones de Diseño\bin\Debug\net5.0\Arquitectura y Patrones de Diseño.runtimeconfig.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Arquitectura y Patrones de Diseño\bin\Debug\net5.0\Arquitectura y Patrones de Diseño.runtimeconfig.dev.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Arquitectura y Patrones de Diseño\bin\Debug\net5.0\Arquitectura y Patrones de Diseño.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Arquitectura y Patrones de Diseño\bin\Debug\net5.0\ref\Arquitectura y Patrones de Diseño.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Arquitectura y Patrones de Diseño\bin\Debug\net5.0\Arquitectura y Patrones de Diseño.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Arquitectura y Patrones de Diseño\obj\Debug\net5.0\Arquitectura y Patrones de Diseño.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Arquitectura y Patrones de Diseño\obj\Debug\net5.0\Arquitectura y Patrones de Diseño.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Arquitectura y Patrones de Diseño\obj\Debug\net5.0\Arquitectura y Patrones de Diseño.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Arquitectura y Patrones de Diseño\obj\Debug\net5.0\Arquitectura y Patrones de Diseño.AssemblyInfo.cs
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Arquitectura y Patrones de Diseño\obj\Debug\net5.0\Arquitectura y Patrones de Diseño.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Arquitectura y Patrones de Diseño\obj\Debug\net5.0\Arquitectura y Patrones de Diseño.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Arquitectura y Patrones de Diseño\obj\Debug\net5.0\ref\Arquitectura y Patrones de Diseño.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Arquitectura y Patrones de Diseño\obj\Debug\net5.0\Arquitectura y Patrones de Diseño.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Arquitectura y Patrones de Diseño\obj\Debug\net5.0\Arquitectura y Patrones de Diseño.genruntimeconfig.cache

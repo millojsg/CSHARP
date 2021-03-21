@@ -4,3 +4,4 @@ C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML_Escribir\bin\Debug\XML_Escribir.
 C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML_Escribir\bin\Debug\XML_Escribir.pdb
 C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML_Escribir\obj\Debug\XML_Escribir.exe
 C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML_Escribir\obj\Debug\XML_Escribir.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML_Escribir\obj\Debug\XML_Escribir.csprojAssemblyReference.cache

@@ -105,3 +105,19 @@ namespace LINQ
 
     }
 }
+
+//'Idea con linq descartada por que no sé como usar funcion like para optimizar el buscador
+//            'Dim tTemp As DataTable = miTabla.Clone
+//            'Dim q = From f As DataRow In miTabla.AsEnumerable
+//            '        Where
+//            '        (f.Item("codigo") = filtros("Codigo") Or String.IsNullOrEmpty(filtros("Codigo"))) And
+//            '        (f.Item("numeroLegal") = filtros(keyNumLegal) Or String.IsNullOrEmpty(filtros(keyNumLegal))) And
+//            '        (f.Item(keyDv) = filtros(keyDv) Or String.IsNullOrEmpty(filtros(keyDv))) And
+//            '        (f.Item("razonSocial").ToUpper.StartsWith(filtros(keyRznSocial)) Or String.IsNullOrEmpty(filtros(keyRznSocial))) And
+//            '        (f.Item(keyFantasia).ToUpper.StartsWith(filtros(keyFantasia)) Or String.IsNullOrEmpty(filtros(keyFantasia))) And
+//            '        (f.Item(keyTipo) = filtros(keyTipo) Or filtros.Item(keyTipo) = "TODOS")
+//            '        Select f
+
+//            'For Each elemento In q
+//            '    tTemp.Rows.Add(elemento.ItemArray)
+//            'Next

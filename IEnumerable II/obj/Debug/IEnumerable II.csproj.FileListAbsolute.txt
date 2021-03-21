@@ -4,3 +4,4 @@ C:\Users\Desarrollo\Documents\GitHub\CSHARP\IEnumerable II\bin\Debug\IEnumerable
 C:\Users\Desarrollo\Documents\GitHub\CSHARP\IEnumerable II\obj\Debug\IEnumerable II.csproj.CoreCompileInputs.cache
 C:\Users\Desarrollo\Documents\GitHub\CSHARP\IEnumerable II\obj\Debug\IEnumerable II.exe
 C:\Users\Desarrollo\Documents\GitHub\CSHARP\IEnumerable II\obj\Debug\IEnumerable II.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\IEnumerable II\obj\Debug\IEnumerable II.csprojAssemblyReference.cache

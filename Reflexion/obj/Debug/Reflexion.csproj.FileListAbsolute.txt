@@ -1,0 +1,6 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Reflexion\bin\Debug\refelxion.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Reflexion\bin\Debug\refelxion.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Reflexion\obj\Debug\Reflexion.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Reflexion\obj\Debug\Reflexion.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Reflexion\obj\Debug\refelxion.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Reflexion\obj\Debug\refelxion.pdb
