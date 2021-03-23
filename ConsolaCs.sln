@@ -100,7 +100,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arquitectura y Patrones de 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metodo de extension", "Metodo de Extension\Metodo de extension.csproj", "{C1BB60AF-B1E1-4827-828A-8FBC5C95B256}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mis Metodos de Extension II", "Mis Metodos de Extension II\Mis Metodos de Extension II.csproj", "{C6149738-37FD-4DC9-A9AB-48031B50B336}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mis Metodos de Extension II", "Mis Metodos de Extension II\Mis Metodos de Extension II.csproj", "{C6149738-37FD-4DC9-A9AB-48031B50B336}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mis Algoritmos", "Mis Algoritmos\Mis Algoritmos.csproj", "{C2CDC77A-5B5F-44BB-847D-C7E492EA2393}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -288,6 +290,10 @@ Global
 		{C6149738-37FD-4DC9-A9AB-48031B50B336}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C6149738-37FD-4DC9-A9AB-48031B50B336}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C6149738-37FD-4DC9-A9AB-48031B50B336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2CDC77A-5B5F-44BB-847D-C7E492EA2393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2CDC77A-5B5F-44BB-847D-C7E492EA2393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2CDC77A-5B5F-44BB-847D-C7E492EA2393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2CDC77A-5B5F-44BB-847D-C7E492EA2393}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

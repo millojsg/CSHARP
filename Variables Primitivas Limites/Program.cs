@@ -19,11 +19,6 @@ namespace Variables_Primitivas_Limites
         {
             Action<string> mostrar = (x) => Console.WriteLine(x);
             Action esperar = () => Console.ReadLine();
-
-            // Mostrar más información desde html.
-            string path = AppDomain.CurrentDomain.BaseDirectory;
-
-            util.ExecuteCommand($@"start /max chrome ""{path}\StandarNumericaFormat.html""");
             
             Console.WriteLine("Hello World!");
 
@@ -31,10 +26,26 @@ namespace Variables_Primitivas_Limites
             mostrar($"LONG: {String.Format("{0:N0}", long.MaxValue)} - {String.Format("{0:N}", long.MinValue)}");
             mostrar($"BYTE: {String.Format("{0:N0}", byte.MaxValue)} - {String.Format("{0:N}", byte.MinValue)}");
             mostrar($"INTEGER Convert.ToInt32(NULL): {Convert.ToInt32(null)}");
-            mostrar("Ver más info en buscador Web...");
+            MostrarValorPorDefectoDe<string>();
+            MostrarValorPorDefectoDe<int>();
+            MostrarValorPorDefectoDe<long>();
+            MostrarValorPorDefectoDe<decimal>();
+            MostrarValorPorDefectoDe<bool>();
+
+            // Mostrar más información desde html.
+            string path = AppDomain.CurrentDomain.BaseDirectory;
+            mostrar("\r\nSi deseas ver mas info. por favor presiona 1");
+            if (Console.ReadLine() == "1")
+            {
+                util.ExecuteCommand($@"start /max chrome ""{path}\StandarNumericaFormat.html""");
+            }
             esperar();
         }
 
-
+        public static void MostrarValorPorDefectoDe<T>()
+        {
+            var val = default(T);
+            Console.WriteLine($"El valor por defecto del {typeof(T)} es {(val == null ? "null" : val.ToString())}.");
+        }
     }
 }

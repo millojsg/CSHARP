@@ -1,0 +1,16 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Mis Algoritmos\obj\Debug\net5.0\Mis Algoritmos.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Mis Algoritmos\obj\Debug\net5.0\Mis Algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Mis Algoritmos\obj\Debug\net5.0\Mis Algoritmos.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Mis Algoritmos\obj\Debug\net5.0\Mis Algoritmos.AssemblyInfo.cs
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Mis Algoritmos\obj\Debug\net5.0\Mis Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Mis Algoritmos\bin\Debug\net5.0\Mis Algoritmos.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Mis Algoritmos\bin\Debug\net5.0\Mis Algoritmos.deps.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Mis Algoritmos\bin\Debug\net5.0\Mis Algoritmos.runtimeconfig.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Mis Algoritmos\bin\Debug\net5.0\Mis Algoritmos.runtimeconfig.dev.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Mis Algoritmos\bin\Debug\net5.0\Mis Algoritmos.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Mis Algoritmos\bin\Debug\net5.0\ref\Mis Algoritmos.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Mis Algoritmos\bin\Debug\net5.0\Mis Algoritmos.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Mis Algoritmos\obj\Debug\net5.0\Mis Algoritmos.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Mis Algoritmos\obj\Debug\net5.0\ref\Mis Algoritmos.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Mis Algoritmos\obj\Debug\net5.0\Mis Algoritmos.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Mis Algoritmos\obj\Debug\net5.0\Mis Algoritmos.genruntimeconfig.cache
