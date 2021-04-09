@@ -147,7 +147,8 @@ namespace PatronComposite
     /// <typeparam name="T"></typeparam>
     class Hoja<T> : Componente<T>
     {
-       private const string tipo = "Soy Hoja";
+        private const string tipo = "Soy Hoja";
+        
         // Constructor
         public Hoja(T nombre, Componente<T> raiz) : base(nombre, raiz)
         {
