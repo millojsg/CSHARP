@@ -18,14 +18,15 @@ namespace Eventos
 {
     class Program
     {
+        public static Action<string> mostrar = (x)=>Console.WriteLine(x);
+
         static void Main(string[] args)
         {
             Operaciones miOperacion = new Operaciones();
-            miOperacion.miEvento += miManejador;
+            miOperacion.miEvento += miManejador;    
             double a, b, c;
 
-            do
-            {
+            do {
                 try
                 {
                     Console.WriteLine("Introduzca el enumerador");
@@ -38,21 +39,59 @@ namespace Eventos
 
                     Console.WriteLine($"El resultado es {c}");
 
-                    Console.WriteLine("Presione cualquier tecla para continuar");
-                    Console.ReadLine();
+                    Console.WriteLine("Presione 'q' si desea pasar al siguiente ejemplo. Si desea continuar con el actual ejemplo presione cualquier otra tecla...");
+                    if (Console.ReadLine() == "q") break;
                 }
                 catch (Exception ex)
                 {
                     Console.WriteLine(ex.Message);
                 }
             }
-            while (true);            
+            while (true);
+
+
+
+           // Segundo ejemplo...
+                mostrar("****Este es el segundo ejemplo. sin EventArgs o sender*******");
+
+                OperacionesConEventoIndormal miOperacion2 = new OperacionesConEventoIndormal();
+                miOperacion2.miEvento += miManejadorInformal;
+            do
+            {
+                try
+                {
+                    Console.WriteLine("Introduzca el enumerador");
+                    a = Int32.Parse(Console.ReadLine());
+
+                    Console.WriteLine("Introduzca el divisor");
+                    b = Int32.Parse(Console.ReadLine());
+
+                    c = miOperacion2.Division(a, b);
+
+                    Console.WriteLine($"El resultado es {c}");
+
+                    Console.WriteLine("Presione 'q' si desea finalizar aplicacion, en caso de querer continuar con este ejemplo presione cualquier otra tecla...");
+                    if (Console.ReadLine() == "q") break;
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
+                }
+            } while (true);
+
+
         }
         
         private static void miManejador(object sender, EventArgs e) //Manejador del evento
         {
             Console.WriteLine("Mensaje activado por evento. Estas dividiendo por cero");
         }
+
+        private static void miManejadorInformal(string mensaje) //Manejador del evento
+        {
+            Console.WriteLine(mensaje);
+        }
+
     }
 
     class Operaciones
@@ -78,6 +117,32 @@ namespace Eventos
             return resultado;
         }
     }
+
+    class OperacionesConEventoIndormal
+    {
+        public delegate void miDelegado(string mensaje);
+        public event miDelegado miEvento;
+
+        public double Division(double a, double b)
+        {
+            double resultado = 0;
+
+            if (b == 0)
+            {
+                if (miEvento != null)
+                {
+                    miEvento("Hey soy el Evento. Estas intentando dividir entre cero, que burro...");    //Esta intruccion levanta la notificacion del lado del suscriptor            
+                }
+            }
+            else
+            {
+                resultado = a / b;
+            }
+            return resultado;
+        }
+    }
+
+
 }
 
 

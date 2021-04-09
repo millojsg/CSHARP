@@ -1,0 +1,17 @@
+Arquitectura de software: Es la estructura general del sistema. 
+
+Para diseñar un software profesionalmente se recomiendan los siguientes pasos:
+
+
+1. Toma de requerimientos.
+2. Formalizacion de los requerimientos en forma de especificaciones del software.
+3. Diseño 
+	3.1. Dividir el sistema en elementos de software.
+	3.2. Dar funcionalidad a los elementos del software.
+	3.3. Establecer relaciones.
+4. Desarrollar sistema.
+5. Probar el sistema y ajustar. <---Cuantas veces sea necesario
+6. Implementar.
+7. Mantener.
+
+Patron de diseño de software: Es un diseño que permite la solución a un problema recurrente.

@@ -1,0 +1,16 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Formatos\bin\Debug\net5.0\Formatos.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Formatos\bin\Debug\net5.0\Formatos.deps.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Formatos\bin\Debug\net5.0\Formatos.runtimeconfig.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Formatos\bin\Debug\net5.0\Formatos.runtimeconfig.dev.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Formatos\bin\Debug\net5.0\Formatos.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Formatos\bin\Debug\net5.0\ref\Formatos.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Formatos\bin\Debug\net5.0\Formatos.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Formatos\obj\Debug\net5.0\Formatos.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Formatos\obj\Debug\net5.0\Formatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Formatos\obj\Debug\net5.0\Formatos.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Formatos\obj\Debug\net5.0\Formatos.AssemblyInfo.cs
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Formatos\obj\Debug\net5.0\Formatos.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Formatos\obj\Debug\net5.0\Formatos.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Formatos\obj\Debug\net5.0\ref\Formatos.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Formatos\obj\Debug\net5.0\Formatos.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Formatos\obj\Debug\net5.0\Formatos.genruntimeconfig.cache

@@ -1,0 +1,4 @@
+Métodologia E para el diseño patrones.
+1. Definir objetos.
+2. Definir eventos.
+3. Definir procesos.

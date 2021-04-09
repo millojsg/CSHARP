@@ -1,0 +1,45 @@
+﻿Objetos:
+	DataTable1 
+	_DataTable2
+	ComboBox1
+	ComboBox2
+	<T> _ValorSeleccionado
+
+Eventos:
+	ComboBox1.SelectedIndexChange
+
+Procedimientos:
+
+1-Inicializar objetos:
+	
+	ComboBox1	
+		.DataSource = [Datos que condicionan los datos del ComboBox2]
+		.SelectedIndex = 0
+		...
+
+	DataTable1 = [Todos los posibles datos del ComboBox2]
+	
+	Llamar ActualizarItemsComboBox2
+
+	Asignar Evento SelectedIndexChange a ComboBox1
+
+
+2-ActualizarItemsComboBox2:
+	_DataTable2 = DataTable.Clone()
+	
+	Dim ValorSeleccionado As <T> = Convert.To<T>(TryCast(ComboBox1.SelectedItem, DataRowView).Item("Campo_de_interes_del_datasource"))
+	
+	<T> filterExpresion = "Campo_de_interes_del_datasource = ValorSeleccionado"  // Ejemplo ---> filterExpresion = "estado_sii = "
+
+	Array.ForEach(Of DataRow)(DataTable1.Select(filterExpresion), Sub(x As DataRow) _DataTable2.ImportRow(x))   <======VB.Net
+
+	ComboBox2
+		.DataSource = _DataTable2
+		.DisplayMem..
+		.ValueMem..
+		.SelectedIndex=0
+		...
+
+🗲2- ComboBox1.SelectedIndexChange
+	 Llamar ActualizarComboBox2
+
