@@ -15,12 +15,12 @@ namespace Patron_Decorador
         {
             Action<string> mostrar = (msj) => Console.WriteLine("\r\n" + msj);
 
-            IRobot miRobot = new Robot("Carlos","Prototipo1","Es un robot al cual se le pueden añadir funcionalidades", 20000);
+            IDecorable miRobot = new Robot("Carlos", "Prototipo1", "Soy un robot al cual se le pueden añadir funcionalidades, es decir, soy decorable.", 20000);
 
             mostrar(miRobot.ToString());
             mostrar(miRobot.Funciones());
             mostrar($"Precio: {miRobot.ObtenerCosto()}");
-            
+
             mostrar("Ahora agregaremos la funcionalidad de piernas.");
             miRobot = new Piernas(miRobot);
             mostrar(miRobot.Funciones());
@@ -40,13 +40,34 @@ namespace Patron_Decorador
         }
     }
 
-    public interface IRobot
-    {
-        public string Funciones();
-        public double ObtenerCosto();
+
+    /// <summary>
+    /// Conocido como COMPONENTE.
+    /// Define una interfaz para los objetos a los cuales se le pueden agregar 
+    /// decoraciones dinámicamente.
+    /// </summary>
+    public interface IDecorable
+    { 
+         public string Funciones();
+         public double ObtenerCosto();
     }
 
-    public class Robot : IRobot
+    /// <summary>
+    /// Conocido como DECORADOR.
+    /// Es una interfaz que hereda de la interfaz COMPONENTE y solicita que se agrega la propiedad
+    /// ComponenteConcreto.
+    /// ComponenteConcreto es el objeto de tipo COMPONENTE al cual se le agregaran las decoraciones.
+    /// </summary>
+    public interface IDecoracion : IDecorable
+    {
+        IDecorable ComponenteConcreto { get; set; } 
+    }
+
+    /// <summary>
+    /// Conocido como COPONENTE CONCRETO.
+    /// Es una clase que hereda de COMPONENTE. Esta clase representa el objeto al cual se desea agregar funcionalidades.
+    /// </summary>
+    public class Robot : IDecorable
     {
         private string nombre;
         private string modelo;
@@ -72,53 +93,51 @@ namespace Patron_Decorador
         public double ObtenerCosto() => costo;
     }
 
-    public class Piernas : IRobot
+    /// <summary>
+    /// Conocido como DECORADOR CONCRETO
+    /// Es una clase que hereda de la interfaz DECORADOR. Contiene las funcionalidades extras que se desean 
+    /// agregar al ComponenteConcreto.
+    /// </summary>
+    public class Piernas : IDecoracion
     {
-        IRobot robot;
+        public IDecorable ComponenteConcreto { get; set; }
 
-        public Piernas(IRobot robot)
-        {
-            this.robot = robot;
-        }
+        public Piernas(IDecorable componenteConcreto)=>  ComponenteConcreto = componenteConcreto;        // Constructor
 
-        public string Funciones() => robot.Funciones() + "\r\n- Ahora puedo caminar. Agregado con decorador";
+        public string Funciones() => ComponenteConcreto.Funciones() + "\r\n- Ahora puedo caminar. Agregado con decorador";
 
-        public double ObtenerCosto() => robot.ObtenerCosto() + 5000d;
+        public double ObtenerCosto() => ComponenteConcreto.ObtenerCosto() + 5000d;
     }
 
-    public class BrazosMecanicos : IRobot
+    /// <summary>
+    /// Conocido como DECORADOR CONCRETO
+    /// Es una clase que hereda de la interfaz DECORADOR. Contiene las funcionalidades extras que se desean 
+    /// agregar al ComponenteConcreto.
+    /// </summary>
+    public class BrazosMecanicos : IDecoracion
     {
-        IRobot robot;
+        public IDecorable ComponenteConcreto { get; set; }
 
-        public BrazosMecanicos(IRobot robot)
-        {
-            this.robot = robot;
-        }
+        public BrazosMecanicos(IDecorable componenteConcreto) => ComponenteConcreto = componenteConcreto;        // Constructor
 
-        public string Funciones() => robot.Funciones() + "\r\n- Ahora puedo sujetar cosas. Agregado con decorador";
+        public string Funciones() => ComponenteConcreto.Funciones() + "\r\n- Ahora puedo sujetar cosas. Agregado con decorador";
 
-        public double ObtenerCosto() => robot.ObtenerCosto() + 2000d;
+        public double ObtenerCosto() => ComponenteConcreto.ObtenerCosto() + 2000d;
     }
 
-    public class SensorTemperatura : IRobot
+    /// <summary>
+    /// Conocido como DECORADOR CONCRETO
+    /// Es una clase que hereda de la interfaz DECORADOR. Contiene las funcionalidades extras que se desean 
+    /// agregar al ComponenteConcreto.
+    /// </summary>
+    public class SensorTemperatura : IDecoracion
     {
-        IRobot robot;
+        public IDecorable ComponenteConcreto { get; set; }
 
-        public SensorTemperatura(IRobot robot)
-        {
-            this.robot = robot;
-        }
+        public SensorTemperatura(IDecorable componenteConcreto) => ComponenteConcreto = componenteConcreto;        // Constructor
 
-        public string Funciones() => robot.Funciones() + "\r\n- Ahora puedo medir la temperatura. Agregado con decorador";
+        public string Funciones() => ComponenteConcreto.Funciones() + "\r\n- Ahora puedo medir la temperatura. Agregado con decorador";
 
-        public double ObtenerCosto() => robot.ObtenerCosto() + 2000d;
+        public double ObtenerCosto() => ComponenteConcreto.ObtenerCosto() + 2000d;
     }
-
-
-
-
-
-
-
-
 }
