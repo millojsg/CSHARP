@@ -1,0 +1,15 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Composite\bin\Debug\net5.0\Patron Compospuesto.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Composite\bin\Debug\net5.0\Patron Compospuesto.deps.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Composite\bin\Debug\net5.0\Patron Compospuesto.runtimeconfig.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Composite\bin\Debug\net5.0\Patron Compospuesto.runtimeconfig.dev.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Composite\bin\Debug\net5.0\Patron Compospuesto.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Composite\bin\Debug\net5.0\ref\Patron Compospuesto.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Composite\bin\Debug\net5.0\Patron Compospuesto.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Composite\obj\Debug\net5.0\Patron Compospuesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Composite\obj\Debug\net5.0\Patron Compospuesto.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Composite\obj\Debug\net5.0\Patron Compospuesto.AssemblyInfo.cs
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Composite\obj\Debug\net5.0\Patron Compospuesto.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Composite\obj\Debug\net5.0\Patron Compospuesto.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Composite\obj\Debug\net5.0\ref\Patron Compospuesto.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Composite\obj\Debug\net5.0\Patron Compospuesto.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Composite\obj\Debug\net5.0\Patron Compospuesto.genruntimeconfig.cache

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Desarrollo\\Documents\\GitHub\\CSHARP\\Mis Algoritmos\\Mis Algoritmos.csproj",
-      "projectName": "Mis Algoritmos",
-      "projectPath": "C:\\Users\\Desarrollo\\Documents\\GitHub\\CSHARP\\Mis Algoritmos\\Mis Algoritmos.csproj",
+      "projectUniqueName": "C:\\Users\\Desarrollo\\Documents\\GitHub\\CSHARP\\Mis Algoritmos\\Algoritmo Burbuja.csproj",
+      "projectName": "Algoritmo Burbuja",
+      "projectPath": "C:\\Users\\Desarrollo\\Documents\\GitHub\\CSHARP\\Mis Algoritmos\\Algoritmo Burbuja.csproj",
       "packagesPath": "C:\\Users\\Desarrollo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Desarrollo\\Documents\\GitHub\\CSHARP\\Mis Algoritmos\\obj\\",
       "projectStyle": "PackageReference",

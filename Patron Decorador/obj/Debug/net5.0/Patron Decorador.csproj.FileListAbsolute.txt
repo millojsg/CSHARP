@@ -1,0 +1,16 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Decorador\bin\Debug\net5.0\Patron Decorador.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Decorador\bin\Debug\net5.0\Patron Decorador.deps.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Decorador\bin\Debug\net5.0\Patron Decorador.runtimeconfig.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Decorador\bin\Debug\net5.0\Patron Decorador.runtimeconfig.dev.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Decorador\bin\Debug\net5.0\Patron Decorador.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Decorador\bin\Debug\net5.0\ref\Patron Decorador.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Decorador\bin\Debug\net5.0\Patron Decorador.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Decorador\obj\Debug\net5.0\Patron Decorador.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Decorador\obj\Debug\net5.0\Patron Decorador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Decorador\obj\Debug\net5.0\Patron Decorador.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Decorador\obj\Debug\net5.0\Patron Decorador.AssemblyInfo.cs
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Decorador\obj\Debug\net5.0\Patron Decorador.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Decorador\obj\Debug\net5.0\Patron Decorador.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Decorador\obj\Debug\net5.0\ref\Patron Decorador.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Decorador\obj\Debug\net5.0\Patron Decorador.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Decorador\obj\Debug\net5.0\Patron Decorador.genruntimeconfig.cache

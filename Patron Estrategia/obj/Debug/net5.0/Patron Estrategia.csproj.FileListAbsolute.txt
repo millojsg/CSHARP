@@ -1,0 +1,16 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Estrategia\bin\Debug\net5.0\Patron Estrategia.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Estrategia\bin\Debug\net5.0\Patron Estrategia.deps.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Estrategia\bin\Debug\net5.0\Patron Estrategia.runtimeconfig.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Estrategia\bin\Debug\net5.0\Patron Estrategia.runtimeconfig.dev.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Estrategia\bin\Debug\net5.0\Patron Estrategia.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Estrategia\bin\Debug\net5.0\ref\Patron Estrategia.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Estrategia\bin\Debug\net5.0\Patron Estrategia.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Estrategia\obj\Debug\net5.0\Patron Estrategia.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Estrategia\obj\Debug\net5.0\Patron Estrategia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Estrategia\obj\Debug\net5.0\Patron Estrategia.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Estrategia\obj\Debug\net5.0\Patron Estrategia.AssemblyInfo.cs
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Estrategia\obj\Debug\net5.0\Patron Estrategia.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Estrategia\obj\Debug\net5.0\Patron Estrategia.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Estrategia\obj\Debug\net5.0\ref\Patron Estrategia.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Estrategia\obj\Debug\net5.0\Patron Estrategia.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Estrategia\obj\Debug\net5.0\Patron Estrategia.genruntimeconfig.cache
