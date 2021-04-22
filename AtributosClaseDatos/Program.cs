@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace AtributosClaseDatos
 {
+    /// <summary>
+    /// Nota este ejemplo no funciona correctamente...
+    /// </summary>
+
     class Program
     {
         static void Main(string[] args)
@@ -22,18 +26,14 @@ namespace AtributosClaseDatos
                 Console.WriteLine(pruebas.miLong);
                 Console.WriteLine(pruebas.Cadena2);
             
-            
             }
-            catch (Exception)
+            catch (Exception ex)
             {
 
-                throw;
+                Console.WriteLine("Excepcion" + ex.Message);
             }
 
-
-
-
-
+            Console.ReadLine();
         }
     }
 }

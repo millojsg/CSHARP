@@ -1,0 +1,16 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Singleton\obj\Debug\net5.0\Patron Singleton.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Singleton\obj\Debug\net5.0\Patron Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Singleton\obj\Debug\net5.0\Patron Singleton.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Singleton\obj\Debug\net5.0\Patron Singleton.AssemblyInfo.cs
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Singleton\obj\Debug\net5.0\Patron Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Singleton\bin\Debug\net5.0\Patron Singleton.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Singleton\bin\Debug\net5.0\Patron Singleton.deps.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Singleton\bin\Debug\net5.0\Patron Singleton.runtimeconfig.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Singleton\bin\Debug\net5.0\Patron Singleton.runtimeconfig.dev.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Singleton\bin\Debug\net5.0\Patron Singleton.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Singleton\bin\Debug\net5.0\ref\Patron Singleton.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Singleton\bin\Debug\net5.0\Patron Singleton.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Singleton\obj\Debug\net5.0\Patron Singleton.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Singleton\obj\Debug\net5.0\ref\Patron Singleton.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Singleton\obj\Debug\net5.0\Patron Singleton.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Patron Singleton\obj\Debug\net5.0\Patron Singleton.genruntimeconfig.cache

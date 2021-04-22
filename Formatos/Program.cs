@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Globalization;
+using System.Threading;
 
 namespace Formatos
 {
@@ -148,7 +149,14 @@ namespace Formatos
             // Displays 1,234.57
 
 
+            // Convertir un dato con formato personalizado a formato nativo del sistema.
+            string miDatoPersonalizado= "1000.30";
 
+            CultureInfo miCulturaPersonalizada = (CultureInfo)Thread.CurrentThread.CurrentCulture.Clone();
+            miCulturaPersonalizada.NumberFormat.NumberDecimalSeparator = ".";
+            decimal miDatoNativo = Convert.ToDecimal(miDatoPersonalizado, miCulturaPersonalizada);
+            
+            Console.WriteLine(miDatoNativo);
 
 
         }

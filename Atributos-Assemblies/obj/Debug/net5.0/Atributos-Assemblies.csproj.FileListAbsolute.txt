@@ -1,0 +1,12 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Assemblies\obj\Debug\net5.0\Atributos-Assemblies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Assemblies\obj\Debug\net5.0\Atributos-Assemblies.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Assemblies\obj\Debug\net5.0\Atributos-Assemblies.AssemblyInfo.cs
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Assemblies\obj\Debug\net5.0\Atributos-Assemblies.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Assemblies\bin\Debug\net5.0\Atributos-Assemblies.deps.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Assemblies\bin\Debug\net5.0\Atributos-Assemblies.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Assemblies\bin\Debug\net5.0\ref\Atributos-Assemblies.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Assemblies\bin\Debug\net5.0\Atributos-Assemblies.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Assemblies\obj\Debug\net5.0\Atributos-Assemblies.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Assemblies\obj\Debug\net5.0\ref\Atributos-Assemblies.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Assemblies\obj\Debug\net5.0\Atributos-Assemblies.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Assemblies\obj\Debug\net5.0\Atributos-Assemblies.csprojAssemblyReference.cache

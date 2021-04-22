@@ -41,6 +41,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eventos II", "Eventos II\Ev
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{2AD0A8D2-03C1-4095-99B7-A9023D057BC2}"
 	ProjectSection(SolutionItems) = preProject
+		Acceder  a un elemento desde otro hilo.txt = Acceder  a un elemento desde otro hilo.txt
 		Clases.txt = Clases.txt
 	EndProjectSection
 EndProject
@@ -107,13 +108,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritmo Burbuja", "Mis Al
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Formatos", "Formatos\Formatos.csproj", "{C6E842F7-C54F-4BBE-AD16-08A1ED2ED35B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patron Compospuesto", "Patron Composite\Patron Compospuesto.csproj", "{2462FCF4-0B09-428B-BFCB-B64536912C3B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patron Compuesto", "Patron Composite\Patron Compuesto.csproj", "{2462FCF4-0B09-428B-BFCB-B64536912C3B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algoritmo Floyd Tortuga y Liebre", "Algoritmo Floyd Tortuga y Liebre\Algoritmo Floyd Tortuga y Liebre.csproj", "{E8644649-4055-42EF-A447-074E194902F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Algoritmo Floyd Tortuga y Liebre", "Algoritmo Floyd Tortuga y Liebre\Algoritmo Floyd Tortuga y Liebre.csproj", "{E8644649-4055-42EF-A447-074E194902F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patron Estrategia", "Patron Estrategia\Patron Estrategia.csproj", "{7355BBF5-FFEB-4D3B-AC41-1FF3C1ACE997}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patron Estrategia", "Patron Estrategia\Patron Estrategia.csproj", "{7355BBF5-FFEB-4D3B-AC41-1FF3C1ACE997}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patron Decorador", "Patron Decorador\Patron Decorador.csproj", "{34E05C21-9BC9-4A49-8FBF-C5EC0B531339}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patron Decorador", "Patron Decorador\Patron Decorador.csproj", "{34E05C21-9BC9-4A49-8FBF-C5EC0B531339}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atributos", "Atributos\Atributos.csproj", "{4D8ADB34-5571-401F-BC1A-966DECF7B275}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atributos-Assemblies", "Atributos-Assemblies\Atributos-Assemblies.csproj", "{4F4BB8A3-81EC-4666-AD69-66CA01C97058}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio Thread Safe con Singleton", "Laboratorio Thread Safe con Singleton\Laboratorio Thread Safe con Singleton.csproj", "{498523EC-D1E2-4687-9D3C-07CDA03EDF41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patron Singleton", "Patron Singleton\Patron Singleton.csproj", "{A2CA589F-55F4-48A6-A553-EC87DD07BE9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -321,6 +330,22 @@ Global
 		{34E05C21-9BC9-4A49-8FBF-C5EC0B531339}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34E05C21-9BC9-4A49-8FBF-C5EC0B531339}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34E05C21-9BC9-4A49-8FBF-C5EC0B531339}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D8ADB34-5571-401F-BC1A-966DECF7B275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D8ADB34-5571-401F-BC1A-966DECF7B275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D8ADB34-5571-401F-BC1A-966DECF7B275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D8ADB34-5571-401F-BC1A-966DECF7B275}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F4BB8A3-81EC-4666-AD69-66CA01C97058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4BB8A3-81EC-4666-AD69-66CA01C97058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4BB8A3-81EC-4666-AD69-66CA01C97058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4BB8A3-81EC-4666-AD69-66CA01C97058}.Release|Any CPU.Build.0 = Release|Any CPU
+		{498523EC-D1E2-4687-9D3C-07CDA03EDF41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{498523EC-D1E2-4687-9D3C-07CDA03EDF41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{498523EC-D1E2-4687-9D3C-07CDA03EDF41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{498523EC-D1E2-4687-9D3C-07CDA03EDF41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2CA589F-55F4-48A6-A553-EC87DD07BE9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2CA589F-55F4-48A6-A553-EC87DD07BE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2CA589F-55F4-48A6-A553-EC87DD07BE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2CA589F-55F4-48A6-A553-EC87DD07BE9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

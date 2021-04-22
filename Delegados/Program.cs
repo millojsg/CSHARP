@@ -31,8 +31,7 @@ namespace Delegados
             miDelegado += new miFirma(Calculo.dividir);
             miDelegado(100, 50);
 
-            //Saber cantidad de metodos en el delegado
-
+          
             int CantDelegados = miDelegado.GetInvocationList().GetLength(0);
 
             Console.WriteLine("La cantidad de metodos en el delegado son: {0} ", CantDelegados);

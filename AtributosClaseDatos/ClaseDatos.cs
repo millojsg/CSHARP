@@ -5,7 +5,7 @@ namespace AtributosClaseDatos
 {
     public class ClaseDatos
     {
-        [StringValidator(InvalidCharacters = " ~!@#$%^&*()[]{}/;'\"|\\", MinLength = 1, MaxLength = 60)]
+        [StringValidator(InvalidCharacters = "~!@#$%^&*()[]{}/", MinLength = 1, MaxLength = 60)]
         public string Cadena { get; set; }
 
         [LongValidator(MinValue = 1, MaxValue = 100, ExcludeRange = true)]

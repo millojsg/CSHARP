@@ -1,0 +1,15 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Aplicacion Extendible\bin\Debug\net5.0\Atributos-Aplicacion Extendible.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Aplicacion Extendible\bin\Debug\net5.0\Atributos-Aplicacion Extendible.deps.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Aplicacion Extendible\bin\Debug\net5.0\Atributos-Aplicacion Extendible.runtimeconfig.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Aplicacion Extendible\bin\Debug\net5.0\Atributos-Aplicacion Extendible.runtimeconfig.dev.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Aplicacion Extendible\bin\Debug\net5.0\Atributos-Aplicacion Extendible.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Aplicacion Extendible\bin\Debug\net5.0\ref\Atributos-Aplicacion Extendible.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Aplicacion Extendible\bin\Debug\net5.0\Atributos-Aplicacion Extendible.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Aplicacion Extendible\obj\Debug\net5.0\Atributos-Aplicacion Extendible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Aplicacion Extendible\obj\Debug\net5.0\Atributos-Aplicacion Extendible.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Aplicacion Extendible\obj\Debug\net5.0\Atributos-Aplicacion Extendible.AssemblyInfo.cs
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Aplicacion Extendible\obj\Debug\net5.0\Atributos-Aplicacion Extendible.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Aplicacion Extendible\obj\Debug\net5.0\Atributos-Aplicacion Extendible.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Aplicacion Extendible\obj\Debug\net5.0\ref\Atributos-Aplicacion Extendible.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Aplicacion Extendible\obj\Debug\net5.0\Atributos-Aplicacion Extendible.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos-Aplicacion Extendible\obj\Debug\net5.0\Atributos-Aplicacion Extendible.genruntimeconfig.cache

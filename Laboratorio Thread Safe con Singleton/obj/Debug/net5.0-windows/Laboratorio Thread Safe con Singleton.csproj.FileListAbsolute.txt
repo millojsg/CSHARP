@@ -1,0 +1,21 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Laboratorio Thread Safe con Singleton\obj\Debug\net5.0-windows\Laboratorio Thread Safe con Singleton.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Laboratorio Thread Safe con Singleton\obj\Debug\net5.0-windows\Laboratorio_Thread_Safe_con_Singleton.Form1.resources
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Laboratorio Thread Safe con Singleton\obj\Debug\net5.0-windows\Laboratorio_Thread_Safe_con_Singleton.My_Project.Resources.resources
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Laboratorio Thread Safe con Singleton\obj\Debug\net5.0-windows\Laboratorio Thread Safe con Singleton.csproj.GenerateResource.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Laboratorio Thread Safe con Singleton\obj\Debug\net5.0-windows\Laboratorio Thread Safe con Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Laboratorio Thread Safe con Singleton\obj\Debug\net5.0-windows\Laboratorio Thread Safe con Singleton.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Laboratorio Thread Safe con Singleton\obj\Debug\net5.0-windows\Laboratorio Thread Safe con Singleton.AssemblyInfo.cs
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Laboratorio Thread Safe con Singleton\obj\Debug\net5.0-windows\Laboratorio Thread Safe con Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Laboratorio Thread Safe con Singleton\bin\Debug\net5.0-windows\Laboratorio Thread Safe con Singleton.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Laboratorio Thread Safe con Singleton\bin\Debug\net5.0-windows\Laboratorio Thread Safe con Singleton.dll.config
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Laboratorio Thread Safe con Singleton\bin\Debug\net5.0-windows\Laboratorio Thread Safe con Singleton.deps.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Laboratorio Thread Safe con Singleton\bin\Debug\net5.0-windows\Laboratorio Thread Safe con Singleton.runtimeconfig.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Laboratorio Thread Safe con Singleton\bin\Debug\net5.0-windows\Laboratorio Thread Safe con Singleton.runtimeconfig.dev.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Laboratorio Thread Safe con Singleton\bin\Debug\net5.0-windows\Laboratorio Thread Safe con Singleton.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Laboratorio Thread Safe con Singleton\bin\Debug\net5.0-windows\ref\Laboratorio Thread Safe con Singleton.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Laboratorio Thread Safe con Singleton\bin\Debug\net5.0-windows\Laboratorio Thread Safe con Singleton.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Laboratorio Thread Safe con Singleton\obj\Debug\net5.0-windows\Laboratorio Thread Safe con Singleton.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Laboratorio Thread Safe con Singleton\obj\Debug\net5.0-windows\ref\Laboratorio Thread Safe con Singleton.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Laboratorio Thread Safe con Singleton\obj\Debug\net5.0-windows\Laboratorio Thread Safe con Singleton.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Laboratorio Thread Safe con Singleton\obj\Debug\net5.0-windows\Laboratorio Thread Safe con Singleton.genruntimeconfig.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Laboratorio Thread Safe con Singleton\obj\Debug\net5.0-windows\Laboratorio_Thread_Safe_con_Singleton.Form2.resources

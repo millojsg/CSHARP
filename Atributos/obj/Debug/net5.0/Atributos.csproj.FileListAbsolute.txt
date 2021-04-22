@@ -1,0 +1,16 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos\obj\Debug\net5.0\Atributos.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos\obj\Debug\net5.0\Atributos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos\obj\Debug\net5.0\Atributos.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos\obj\Debug\net5.0\Atributos.AssemblyInfo.cs
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos\obj\Debug\net5.0\Atributos.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos\bin\Debug\net5.0\Atributos.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos\bin\Debug\net5.0\Atributos.deps.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos\bin\Debug\net5.0\Atributos.runtimeconfig.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos\bin\Debug\net5.0\Atributos.runtimeconfig.dev.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos\bin\Debug\net5.0\Atributos.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos\bin\Debug\net5.0\ref\Atributos.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos\bin\Debug\net5.0\Atributos.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos\obj\Debug\net5.0\Atributos.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos\obj\Debug\net5.0\ref\Atributos.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos\obj\Debug\net5.0\Atributos.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Atributos\obj\Debug\net5.0\Atributos.genruntimeconfig.cache

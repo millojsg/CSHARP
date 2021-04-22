@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Desarrollo\\Documents\\GitHub\\CSHARP\\Patron Composite\\Patron Compospuesto.csproj",
-      "projectName": "Patron Compospuesto",
-      "projectPath": "C:\\Users\\Desarrollo\\Documents\\GitHub\\CSHARP\\Patron Composite\\Patron Compospuesto.csproj",
+      "projectUniqueName": "C:\\Users\\Desarrollo\\Documents\\GitHub\\CSHARP\\Patron Composite\\Patron Compuesto.csproj",
+      "projectName": "Patron Compuesto",
+      "projectPath": "C:\\Users\\Desarrollo\\Documents\\GitHub\\CSHARP\\Patron Composite\\Patron Compuesto.csproj",
       "packagesPath": "C:\\Users\\Desarrollo\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Desarrollo\\Documents\\GitHub\\CSHARP\\Patron Composite\\obj\\",
       "projectStyle": "PackageReference",

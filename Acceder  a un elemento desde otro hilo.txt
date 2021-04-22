@@ -1,0 +1,14 @@
+        private void AccesoForm(string accion)
+        {
+            // Elementos del form
+			txtHiloPrincipal.Text = accion;
+        }
+
+        private delegate void DelegadoAcceso(string Accion);
+        
+		private void AccesoInterrupcion(string accion)
+        {
+            DelegadoAcceso delegadoAcceso = new DelegadoAcceso(AccesoForm);
+            Object[] arg = { accion };
+            base.Invoke(delegadoAcceso, arg);
+        }
