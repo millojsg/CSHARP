@@ -122,7 +122,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Atributos-Assemblies", "Atr
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Laboratorio Thread Safe con Singleton", "Laboratorio Thread Safe con Singleton\Laboratorio Thread Safe con Singleton.csproj", "{498523EC-D1E2-4687-9D3C-07CDA03EDF41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patron Singleton", "Patron Singleton\Patron Singleton.csproj", "{A2CA589F-55F4-48A6-A553-EC87DD07BE9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patron Singleton", "Patron Singleton\Patron Singleton.csproj", "{A2CA589F-55F4-48A6-A553-EC87DD07BE9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegados IV", "Delegados IV\Delegados IV.csproj", "{8078CBE8-46AD-4041-81AD-2B054DF3BAFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -346,6 +348,10 @@ Global
 		{A2CA589F-55F4-48A6-A553-EC87DD07BE9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2CA589F-55F4-48A6-A553-EC87DD07BE9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2CA589F-55F4-48A6-A553-EC87DD07BE9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8078CBE8-46AD-4041-81AD-2B054DF3BAFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8078CBE8-46AD-4041-81AD-2B054DF3BAFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8078CBE8-46AD-4041-81AD-2B054DF3BAFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8078CBE8-46AD-4041-81AD-2B054DF3BAFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

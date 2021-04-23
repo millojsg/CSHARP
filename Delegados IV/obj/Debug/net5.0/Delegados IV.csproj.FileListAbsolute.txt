@@ -1,0 +1,16 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados IV\obj\Debug\net5.0\Delegados IV.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados IV\obj\Debug\net5.0\Delegados IV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados IV\obj\Debug\net5.0\Delegados IV.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados IV\obj\Debug\net5.0\Delegados IV.AssemblyInfo.cs
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados IV\obj\Debug\net5.0\Delegados IV.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados IV\bin\Debug\net5.0\Delegados IV.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados IV\bin\Debug\net5.0\Delegados IV.deps.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados IV\bin\Debug\net5.0\Delegados IV.runtimeconfig.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados IV\bin\Debug\net5.0\Delegados IV.runtimeconfig.dev.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados IV\bin\Debug\net5.0\Delegados IV.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados IV\bin\Debug\net5.0\ref\Delegados IV.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados IV\bin\Debug\net5.0\Delegados IV.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados IV\obj\Debug\net5.0\Delegados IV.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados IV\obj\Debug\net5.0\ref\Delegados IV.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados IV\obj\Debug\net5.0\Delegados IV.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Delegados IV\obj\Debug\net5.0\Delegados IV.genruntimeconfig.cache

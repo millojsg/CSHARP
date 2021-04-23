@@ -14,13 +14,13 @@ namespace Delegados_III
 {
     class Program
     {
-        delegate List<string> objDelegado();
-        static objDelegado miDelegado;
+        delegate List<string> Firma();
+        static Firma miDelegado;
         static List<string> numeros = new List<string>();
 
         static void Main(string[] args)
         {
-            miDelegado = new objDelegado(miMetodo);
+            miDelegado = new Firma(miMetodo);
             AsyncCallback acb = new AsyncCallback(miCallBack);
             miDelegado.BeginInvoke(acb, null);
             Console.ReadLine();
