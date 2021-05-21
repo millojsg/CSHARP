@@ -1,0 +1,16 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML_Serializacion\bin\Debug\net5.0\XML_Serializacion.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML_Serializacion\bin\Debug\net5.0\XML_Serializacion.deps.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML_Serializacion\bin\Debug\net5.0\XML_Serializacion.runtimeconfig.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML_Serializacion\bin\Debug\net5.0\XML_Serializacion.runtimeconfig.dev.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML_Serializacion\bin\Debug\net5.0\XML_Serializacion.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML_Serializacion\bin\Debug\net5.0\ref\XML_Serializacion.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML_Serializacion\bin\Debug\net5.0\XML_Serializacion.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML_Serializacion\obj\Debug\net5.0\XML_Serializacion.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML_Serializacion\obj\Debug\net5.0\XML_Serializacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML_Serializacion\obj\Debug\net5.0\XML_Serializacion.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML_Serializacion\obj\Debug\net5.0\XML_Serializacion.AssemblyInfo.cs
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML_Serializacion\obj\Debug\net5.0\XML_Serializacion.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML_Serializacion\obj\Debug\net5.0\XML_Serializacion.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML_Serializacion\obj\Debug\net5.0\ref\XML_Serializacion.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML_Serializacion\obj\Debug\net5.0\XML_Serializacion.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\XML_Serializacion\obj\Debug\net5.0\XML_Serializacion.genruntimeconfig.cache
