@@ -8,6 +8,7 @@ namespace Enumerable
 {
     class Program
     {
+        // Con la funcion Enumerable.Range().ToArray() Retorna una array desde el 0 al 5.
         static int[] A = System.Linq.Enumerable.Range(0, 5).ToArray();
         static List<int> B = System.Linq.Enumerable.Range(0, 5).Select(elemento => elemento * 2).ToList<int>();
         static List<int> C = System.Linq.Enumerable.Range(0, 5).Select(elemento => elemento * 2).Where(elemento => elemento>4).ToList();

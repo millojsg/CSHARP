@@ -4,6 +4,9 @@ using System.Collections.Generic;
 using System.IO;
 using System.Xml;
 using System.Text;
+using System.Xml.Linq;
+using System.Linq;
+
 
 namespace XML_Serializacion
 {
@@ -36,8 +39,8 @@ namespace XML_Serializacion
             raiz.Contactos = contactos;
             // padre1.Nieto = nieto;
             // raiz.Serializar = false;
-            
-                  
+
+
             // XmlSerializer
             XmlSerializer xmlSerializer = new XmlSerializer(typeof(Raiz));
 
@@ -47,13 +50,75 @@ namespace XML_Serializacion
 
             String strXml = Encoding.UTF8.GetString(memory.ToArray());
 
-            Console.WriteLine(strXml); 
+            Console.WriteLine(strXml);
 
             memory.Position = 0;
 
             Raiz raiz1 = (Raiz)xmlSerializer.Deserialize(memory);
 
-            Console.WriteLine("ObjetoConvertido");
+            // Leer XML con LinQ
+
+            /// NOTAS LINQ XML
+            /// Importar System.Xml.Linq
+            /// using System.Linq;
+            /// XElement.Element("") Ya trae por defecto el nodo Raiz. Por tanto no se debe referenciar.
+            /// Si el xml tiene NameSpace entonces todos los nodos se deben llamar antecediendo el namespace entre llaves.
+
+            Action<string> mostrar = (msg) => Console.WriteLine(msg);
+            
+     XElement xml = XElement.Parse(strXml);
+
+            mostrar(@"******Usando LINQ*******");
+
+            mostrar(@"******Caso 0*******");
+            var query0 = from alias in xml.Elements()
+                         //where alias.Name.LocalName =="MisContactos"
+                         select alias;
+
+            foreach (var elemento in query0)
+            {
+                Console.WriteLine("Value: " + elemento.Value);
+                Console.WriteLine("LocalName: "+ elemento.Name.LocalName);
+                Console.WriteLine("Name: " + elemento.Name);
+                Console.WriteLine("Namespace: " + elemento.Name.Namespace);
+            }
+
+            mostrar(@"******Caso 1*******");
+            var query1 = from alias in xml.Element("{PropiedadEmilio}MisContactos").Elements("{PropiedadEmilio}Contac")
+                        where alias.Element("{PropiedadEmilio}Nombre").Value == "Nombre0"
+                        select alias;
+            
+            foreach (var elemento in query1)
+            {
+                Console.WriteLine(elemento);
+            }
+
+            mostrar(@"******Caso 2*******");
+
+            var query2 = from alias in xml.Elements("{PropiedadEmilio/Padre0}Padre")
+                             //where alias.Name.LocalName =="MisContactos"
+                         select alias;
+
+            foreach (var elemento in query2)
+            {
+                Console.WriteLine(elemento);
+            }
+
+            mostrar(@"******Caso 3*******");
+            var query3 = from alias in xml.Element("{PropiedadEmilio}MisContactos").Elements("{PropiedadEmilio}Contac")
+                         select new Contacto
+                         {
+                             Nombre = alias.Element("{PropiedadEmilio}Nombre").Value,
+                             Telefono = alias.Element("{PropiedadEmilio}Telefono").Value
+                         };
+
+            foreach (Contacto elemento in query3)
+            {
+                Console.WriteLine(elemento.Nombre);
+                Console.WriteLine(elemento.Telefono);
+            }
+
+            Console.ReadLine(); 
         }
     }
 

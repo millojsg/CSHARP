@@ -5,6 +5,13 @@ using System.Text;
 
 namespace LINQ
 {
+    /// <summary>
+    /// Notas:
+    /// Hay un ejemplo del LINQ XML en XML_Serializacion
+    /// Son de tipo IEnumerable
+    /// </summary>
+
+
     class Program
     {
         static void Main(string[] args)
@@ -16,10 +23,21 @@ namespace LINQ
             //Query
             IEnumerable<int> valores = from O in numeros where O > 3 && O < 500 select O;
 
+            // Ordenar numeros
+            IEnumerable<int> valoresOrdenados = from alias in numeros orderby alias select alias;
+
             foreach (int num in valores)
             {
                 Console.WriteLine("Los numeros que estan entre 3 y 500 {0}-----------", num);
             }
+
+            foreach (int num in valoresOrdenados)
+            {
+                Console.WriteLine("Los valores ahora estan ordenados {0}-----------", num);
+            }
+
+
+
             Console.WriteLine();
 
             InformacionResultado(valores);
@@ -60,7 +78,7 @@ namespace LINQ
 
             //LINQ EJECUCION DIFERIDA
             //La expresion del query no se evalua hasta que se itere sobre el arreglo
-            //Despues de moficar la fuente se puede utilixar elmismo query y la informacion estara actualizada
+            //Despues de moficar la fuente se puede utilizar el mismo query y la informacion estara actualizada
             //ejemplo
 
             numeros[0] = 4654;
@@ -92,6 +110,34 @@ namespace LINQ
                 Console.WriteLine(item);
             }
 
+
+            /// PRUEBA LINQ SOBRE COLECCION DE CLASES
+            claseCompleja[] clasesComplejas =
+                {
+                    new claseCompleja(){dato1="Esta es una prueba0", dato2="A" },
+                    new claseCompleja(){dato1="Esta es una prueba5", dato2="D" },
+                    new claseCompleja(){dato1="Esta es una prueba2", dato2="H" },
+                    new claseCompleja(){dato1="Esta es una prueba3", dato2="H" },
+                    new claseCompleja(){dato1="Esta es una prueba4", dato2="E" },
+                    new claseCompleja(){dato1="Esta es una prueba5", dato2="A" },
+                    new claseCompleja(){dato1="Esta es una prueba1", dato2="G" },
+                };
+
+            // 
+            // 
+            (from alias in clasesComplejas
+             where alias.dato2 == "G" || alias.dato2 == "A"
+             select alias).ToList().ForEach((x)=> Console.WriteLine(x.dato1));
+
+            //
+            //
+            claseCompleja miDato2 = (from alias in clasesComplejas
+                                     where alias.dato2 == "A"
+                                     select alias).FirstOrDefault();
+            Console.WriteLine(miDato2.dato1);
+
+
+
             Console.ReadLine();
         }
 
@@ -103,6 +149,12 @@ namespace LINQ
 
 
 
+    }
+
+    public class claseCompleja 
+    {
+        public string dato1 { get; set; }
+        public string dato2 { get; set; }
     }
 }
 
