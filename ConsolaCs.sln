@@ -126,7 +126,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Patron Singleton", "Patron 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delegados IV", "Delegados IV\Delegados IV.csproj", "{8078CBE8-46AD-4041-81AD-2B054DF3BAFA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XML_Serializacion", "XML_Serializacion\XML_Serializacion.csproj", "{A102E982-0A9C-4952-AE9D-6672A277520B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XML_Serializacion", "XML_Serializacion\XML_Serializacion.csproj", "{A102E982-0A9C-4952-AE9D-6672A277520B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Thread", "Thread\Thread.csproj", "{BBB8CD71-500E-45AF-B8E1-67ED93F95997}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -358,6 +360,10 @@ Global
 		{A102E982-0A9C-4952-AE9D-6672A277520B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A102E982-0A9C-4952-AE9D-6672A277520B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A102E982-0A9C-4952-AE9D-6672A277520B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB8CD71-500E-45AF-B8E1-67ED93F95997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB8CD71-500E-45AF-B8E1-67ED93F95997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB8CD71-500E-45AF-B8E1-67ED93F95997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB8CD71-500E-45AF-B8E1-67ED93F95997}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

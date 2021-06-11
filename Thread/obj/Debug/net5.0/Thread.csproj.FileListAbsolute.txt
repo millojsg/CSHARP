@@ -1,0 +1,16 @@
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Thread\bin\Debug\net5.0\Thread.exe
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Thread\bin\Debug\net5.0\Thread.deps.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Thread\bin\Debug\net5.0\Thread.runtimeconfig.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Thread\bin\Debug\net5.0\Thread.runtimeconfig.dev.json
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Thread\bin\Debug\net5.0\Thread.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Thread\bin\Debug\net5.0\ref\Thread.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Thread\bin\Debug\net5.0\Thread.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Thread\obj\Debug\net5.0\Thread.csprojAssemblyReference.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Thread\obj\Debug\net5.0\Thread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Thread\obj\Debug\net5.0\Thread.AssemblyInfoInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Thread\obj\Debug\net5.0\Thread.AssemblyInfo.cs
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Thread\obj\Debug\net5.0\Thread.csproj.CoreCompileInputs.cache
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Thread\obj\Debug\net5.0\Thread.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Thread\obj\Debug\net5.0\ref\Thread.dll
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Thread\obj\Debug\net5.0\Thread.pdb
+C:\Users\Desarrollo\Documents\GitHub\CSHARP\Thread\obj\Debug\net5.0\Thread.genruntimeconfig.cache
